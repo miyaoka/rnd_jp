@@ -1,0 +1,915 @@
+216158,Ale,FULL,0,Ale
+604173,AleWhiterunQuest,FULL,0,Argonian Ale
+2117,BarrelFood01,FULL,0,Barrel
+1104321,BarrelMeat01,FULL,0,Barrel
+1107938,BeastBloodMessage,DESC,0,
+1032181,CureDiseaseEffect,FULL,0,Cure Disease
+1032181,CureDiseaseEffect,DNAM,0,
+1057050,DA03FoodMammothMeat,FULL,0,Mammoth Snout
+976325,DA11CannibalismAbility,FULL,0,Namira's Blessing
+976325,DA11CannibalismAbility,DESC,0,Health regenerates <50>% faster for <5> minutes.
+693857,DA14Water,FULL,0,Holy Water
+837689,DialogueGenericVigilantsOfStendarrCureDiseaseTopic,FULL,0,Please cure me.
+755580,DiseaseAtaxia,FULL,0,Ataxia
+755580,DiseaseAtaxia,DESC,0,
+755582,DiseaseBoneBreakFever,FULL,0,Bone Break Fever
+755582,DiseaseBoneBreakFever,DESC,0,
+755583,DiseaseBrainRot,FULL,0,Brain Rot
+755583,DiseaseBrainRot,DESC,0,
+755585,DiseaseRattles,FULL,0,Rattles
+755585,DiseaseRattles,DESC,0,
+755586,DiseaseRockjoint,FULL,0,Rock Joint
+755586,DiseaseRockjoint,DESC,0,
+755587,DiseaseWitbane,FULL,0,Witbane
+755587,DiseaseWitbane,DESC,0,
+830971,FavorFoodMarkarthSpicedBeef,FULL,0,Spiced Beef
+853342,FavorSorexRum,FULL,0,Stros M'Kai Rum
+100703,FirebrandWine,FULL,0,Firebrand Wine
+412462,FoodApple,FULL,0,Red Apple
+412463,FoodApple02,FULL,0,Green Apple
+965121,FoodAppleCabbageStew,FULL,0,Apple Cabbage Stew
+416921,FoodBeef,FULL,0,Raw Beef
+467432,FoodBeefCooked,FULL,0,Cooked Beef
+1000212,FoodBeefStew,FULL,0,Beef Stew
+181082,FoodBlackBriarMead,FULL,0,Black-Briar Mead
+1009983,FoodBlackBriarMeadPrivateReserve,FULL,0,Black-Briar Reserve
+412464,FoodBoiledCremeTreat,FULL,0,Boiled Creme Treat
+416919,FoodBread01A,FULL,0,Bread
+416920,FoodBread01B,FULL,0,Bread
+412479,FoodCabbage,FULL,0,Cabbage
+1000219,FoodCabbagePotatoSoup,FULL,0,Cabbage Potato Soup
+965122,FoodCabbageSoup,FULL,0,Cabbage Soup
+412480,FoodCarrot,FULL,0,Carrot
+951368,FoodCharredSkeeverMeat,FULL,0,Charred Skeever Meat
+412465,FoodCheeseWedge01,FULL,0,Goat Cheese Wedge
+412466,FoodCheeseWedge02,FULL,0,Eidar Cheese Wedge
+412467,FoodCheeseWheel01A,FULL,0,Goat Cheese Wheel
+412469,FoodCheeseWheel01B,FULL,0,Sliced Goat Cheese
+412468,FoodCheeseWheel02A,FULL,0,Eidar Cheese Wheel
+412470,FoodCheeseWheel02B,FULL,0,Sliced Eidar Cheese
+991249,FoodChicken,FULL,0,Chicken Breast
+952647,FoodChickenCooked,FULL,0,Grilled Chicken Breast
+965123,FoodClamMeat,FULL,0,Clam Meat
+973614,FoodDogMeat,FULL,0,Dog Meat
+1000224,FoodElsweyrFondue,FULL,0,Elsweyr Fondue
+416922,FoodGoatMeat,FULL,0,Leg of Goat
+467532,FoodGoatMeatCooked,FULL,0,Leg of Goat Roast
+1103462,FoodGourd,FULL,0,Gourd
+1063245,FoodHoney,FULL,0,Honey
+412472,FoodHoneyNutTreat,FULL,0,Honey Nut Treat
+329930,FoodHonningbrewMead,FULL,0,Honningbrew Mead
+416923,FoodHorkerMeat,FULL,0,Horker Meat
+467534,FoodHorkerMeatCooked,FULL,0,Horker Loaf
+1000213,FoodHorkerStew,FULL,0,Horker Stew
+416924,FoodHorseMeat,FULL,0,Horse Meat
+467632,FoodHorseMeatCooked,FULL,0,Horse Haunch
+420261,FoodLeek,FULL,0,Leek
+412478,FoodLeeksGrilled,FULL,0,Grilled Leeks
+412473,FoodLongTaffyTreat,FULL,0,Long Taffy Treat
+420259,FoodMammothCheeseBowl,FULL,0,Mammoth Cheese Bowl
+420260,FoodMammothMeat,FULL,0,Mammoth Snout
+467643,FoodMammothMeatCooked,FULL,0,Mammoth Steak
+841236,FoodMarriageMeal,FULL,0,Homecooked Meal
+216157,FoodMead,FULL,0,Nord Mead
+416925,FoodPheasant,FULL,0,Pheasant Breast
+467655,FoodPheasantCooked,FULL,0,Pheasant Roast
+412483,FoodPie,FULL,0,Apple Pie
+412481,FoodPotato,FULL,0,Potato
+412474,FoodPotatoesBaked,FULL,0,Baked Potatoes
+416926,FoodRabbit,FULL,0,Raw Rabbit Leg
+467650,FoodRabbitCooked,FULL,0,Rabbit Haunch
+416927,FoodSalmon,FULL,0,Salmon Meat
+412475,FoodSalmonCooked,FULL,0,Salmon Steak
+412476,FoodSlaughterfishCooked,FULL,0,Seared Slaughterfish
+545640,FoodSolitudeSpicedWine,FULL,0,Spiced Wine
+412477,FoodSweetroll,FULL,0,Sweet Roll
+412482,FoodTomato,FULL,0,Tomato
+1000220,FoodTomatoSoup,FULL,0,Tomato Soup
+1000222,FoodVegetableSoup,FULL,0,Vegetable Soup
+420258,FoodVenison,FULL,0,Venison
+467645,FoodVenisonCooked,FULL,0,Venison Chop
+1000221,FoodVenisonStew,FULL,0,Venison Stew
+201531,FoodWineAlto,FULL,0,Alto Wine
+807753,FoodWineAltoA,FULL,0,Alto Wine
+201532,FoodWineBottle02,FULL,0,Wine
+807752,FoodWineBottle02A,FULL,0,Wine
+359035,FreeformAngasMillKordirsSkooma,FULL,0,Kordir's Skooma
+349672,FreeformDragonBridgeMead,FULL,0,Dragon's Breath Mead
+1038351,MarriageRestedMessage,DESC,0,
+645702,MerchantDawnstarWindpeakInnChest,FULL,0,Chest
+682993,MerchantDragonBridgeFourShieldsTavernChest,FULL,0,Chest
+682995,MerchantFalkreathDeadMansDrinkChest,FULL,0,Chest
+657158,MerchantIvarsteadVilemyrInnChest,FULL,0,Chest
+671525,MerchantKynesgroveBraidwoodInnChest,FULL,0,Chest
+607108,MerchantMarkarthSilverFishInnChest,FULL,0,Chest
+645715,MerchantMorthalMoorsideInnChest,FULL,0,Chest
+648331,MerchantNightgateInnChest,FULL,0,Chest
+648287,MerchantOldHroldanHangedManInnChest,FULL,0,Chest
+657155,MerchantRiftenBeeandBarbChest,FULL,0,Chest
+651856,MerchantRoriksteadFrostFruitInnChest,FULL,0,Chest
+683023,MerchantSolitudeFruitJala,FULL,0,Chest
+682992,MerchantSolitudeWinkingSkeeverChest,FULL,0,Chest
+641786,MerchantWhiterunBannerdMareChest,FULL,0,Chest
+671487,MerchantWindhelmCandlehearthHallChest,FULL,0,Chest
+645727,MerchantWinterholdFrozenHearthChest,FULL,0,Chest
+622436,MiscSack02Large,FULL,0,Sack
+622440,MiscSack02LargeFlat,FULL,0,Sack
+622442,MiscSack02SmallFlat,FULL,0,Sack
+622420,MiscSackLarge,FULL,0,Large Sack
+622444,MiscSackLargeFlat01,FULL,0,Large Sack
+622446,MiscSackLargeFlat02,FULL,0,Large Sack
+622448,MiscSackLargeFlat03,FULL,0,Large Sack
+1079946,MQ101JuniperMead,FULL,0,Mead with Juniper Berry
+224595,MQ201Drink,FULL,0,Colovian Brandy
+992638,MS14WineAltoA,FULL,0,Jessica's Wine
+33614663,N/A,NAM1,0,.
+33675464,N/A,NAM1,0,.
+33675465,N/A,NAM1,0,.
+33675466,N/A,NAM1,0,.
+33818892,N/A,NAM1,0,.
+33863058,N/A,NAM1,0,.
+838080,N/A,NAM1,0,Stendarr's Light purify you of your ills.
+314443,PuddleWater,FULL,74959,MaterialWaterPuddle
+1040530,PuddleWaterFlow,FULL,74959,MaterialWaterPuddle
+1036507,PuddleWaterLiteFog,FULL,74959,MaterialWaterPuddle
+1104236,RestedMarriageSkillEffect,FULL,0,Lover's Comfort
+1104236,RestedMarriageSkillEffect,DNAM,0,
+1038349,RestedMessage,DESC,0,
+1104232,RestedSkillEffect,FULL,0,Rested
+1104232,RestedSkillEffect,DNAM,0,
+1104235,RestedWellSkillEffect,FULL,0,Well Rested
+1104235,RestedWellSkillEffect,DNAM,0,
+416823,RiftenSpecial01,FULL,0,Velvet LeChance
+416824,RiftenSpecial02,FULL,0,White-Gold Tower
+416825,RiftenSpecial03,FULL,0,Cliff Racer
+33663050,RND_AtaxiaReduceAttackDamage25,FULL,0,Reduce Attack Damage
+33663050,RND_AtaxiaReduceAttackDamage25,DESC,0,
+33711339,RND_BeastBloodMessage,DESC,0,Your beast blood keeps you from restful sleep.
+33650636,RND_Bedroll,FULL,0,Bedroll
+34105856,RND_Blackout,FULL,0,Blackout
+34105856,RND_Blackout,DNAM,0,
+34105854,RND_BlackoutSpell,FULL,0,Blackout Spell
+34105854,RND_BlackoutSpell,DESC,0,
+33575916,RND_BoiledWater01,FULL,0,Boiled Water
+33575918,RND_BoiledWater02,FULL,0,Boiled Water
+33618848,RND_BoiledWater02B,FULL,0,Boiled Water
+33575920,RND_BoiledWater03,FULL,0,Boiled Water
+33618841,RND_BoiledWater03B,FULL,0,Boiled Water
+33618843,RND_BoiledWater03C,FULL,0,Boiled Water
+33593946,RND_BoneBreakFeverReduceAttackDamage25,FULL,0,Reduce Attack Damage
+33593946,RND_BoneBreakFeverReduceAttackDamage25,DESC,0,
+33575909,RND_BottledWater01,FULL,0,River Water
+33575911,RND_BottledWater02,FULL,0,River Water
+33618851,RND_BottledWater02B,FULL,0,River Water
+33575913,RND_BottledWater03,FULL,0,River Water
+33618853,RND_BottledWater03B,FULL,0,River Water
+33618855,RND_BottledWater03C,FULL,0,River Water
+33593949,RND_BrainRotReduceSpellMagnitude50,FULL,0,Reduce Spell Magnitude
+33593949,RND_BrainRotReduceSpellMagnitude50,DESC,0,
+33593950,RND_BrainRotReduceSpellMagnitude75,FULL,0,Reduce Spell Magnitude
+33593950,RND_BrainRotReduceSpellMagnitude75,DESC,0,
+33754079,RND_Campfire,FULL,0,Campfire
+33759596,RND_CampfireMenu0,ITXT:3,0,Do Nothing
+33759596,RND_CampfireMenu0,ITXT:2,0,Add Cooking Pot
+33759596,RND_CampfireMenu0,ITXT,0,Add Firewood
+33759596,RND_CampfireMenu0,DESC,0,This campfire should last another %.0f hours.
+33762356,RND_CampfireMenu1,ITXT:3,0,Do Nothing
+33762356,RND_CampfireMenu1,ITXT:2,0,Take Cooking Pot
+33762356,RND_CampfireMenu1,ITXT,0,Add Firewood
+33762356,RND_CampfireMenu1,DESC,0,This campfire should last another %.0f hours.
+33760976,RND_CampfireNeedsFirewood,DESC,0,I need 3 pieces of firewood to start a campfire.
+33762357,RND_CampfireOff,DESC,0,"If I have some firewood, I can reignite the fire."
+33743049,RND_CheckNeedsEffect,FULL,0,Check Needs
+33743049,RND_CheckNeedsEffect,DNAM,0,Check Needs Status.
+33743051,RND_CheckNeedsSpell,FULL,0,Check Needs
+33743051,RND_CheckNeedsSpell,DESC,0,
+33759597,RND_CookingPot,FULL,0,Cooking Pot
+33675463,RND_CureDiseaseEffect,FULL,0,Cure Disease
+33675463,RND_CureDiseaseEffect,DNAM,0,
+33675461,RND_CureDiseaseSpell,DESC,0,
+33638207,RND_DirtyBedroll,FULL,0,Dirty Bedroll
+33638207,RND_DirtyBedroll,DNAM,0,
+33596719,RND_DiseaseAtaxia,FULL,0,Ataxia
+33596719,RND_DiseaseAtaxia,DNAM,0,Ataxia is a mild common disease affecting the victim's strength and dexterity.
+33621624,RND_DiseaseAtaxiaStage0,FULL,0,Ataxia
+33621624,RND_DiseaseAtaxiaStage0,DESC,0,
+33593951,RND_DiseaseAtaxiaStage0Effect,FULL,0,Ataxia
+33593951,RND_DiseaseAtaxiaStage0Effect,DNAM,0,Lockpicking and Pickpocket <mag>% harder.
+33596720,RND_DiseaseAtaxiaStage1,FULL,0,Ataxia
+33596720,RND_DiseaseAtaxiaStage1,DESC,0,
+33621618,RND_DiseaseAtaxiaStage1Effect,FULL,0,Ataxia
+33621618,RND_DiseaseAtaxiaStage1Effect,DNAM,0,Sneak is <mag>% harder. Carry Weight -<mag>.
+33596724,RND_DiseaseAtaxiaStage2,FULL,0,Ataxia
+33596724,RND_DiseaseAtaxiaStage2,DESC,0,
+33596726,RND_DiseaseAtaxiaStage2Effect,FULL,0,Ataxia
+33596726,RND_DiseaseAtaxiaStage2Effect,DNAM,0,Speed -<mag>%. Attack Damage -25%.
+33596723,RND_DiseaseAtaxiaTrap,FULL,0,Ataxia
+33596723,RND_DiseaseAtaxiaTrap,DNAM,0,Ataxia is a mild common disease affecting the victim's strength and dexterity.
+33617448,RND_DiseaseBoneBreakFever,FULL,0,Bone Break Fever
+33617448,RND_DiseaseBoneBreakFever,DNAM,0,Bone Break Fever is a mild common disease that affects a victim's strength and endurance.
+33621626,RND_DiseaseBoneBreakFeverStage0,FULL,0,Bone Break Fever
+33621626,RND_DiseaseBoneBreakFeverStage0,DESC,0,
+33617447,RND_DiseaseBoneBreakFeverStage0Effect,FULL,0,Bone Break Fever
+33617447,RND_DiseaseBoneBreakFeverStage0Effect,DNAM,0,Stamina -<mag>.
+33617443,RND_DiseaseBoneBreakFeverStage1,FULL,0,Bone Break Fever
+33617443,RND_DiseaseBoneBreakFeverStage1,DESC,0,
+33621619,RND_DiseaseBoneBreakFeverStage1Effect,FULL,0,Bone Break Fever
+33621619,RND_DiseaseBoneBreakFeverStage1Effect,DNAM,0,Carry Weight -<mag>.
+33617445,RND_DiseaseBoneBreakFeverStage2,FULL,0,Bone Break Fever
+33617445,RND_DiseaseBoneBreakFeverStage2,DESC,0,
+33593952,RND_DiseaseBoneBreakFeverStage2Effect,FULL,0,Bone Break Fever
+33593952,RND_DiseaseBoneBreakFeverStage2Effect,DNAM,0,Carry Weight -<mag>. Speed -<mag>%. Attack Damage -25%.
+33617449,RND_DiseaseBoneBreakFeverTrap,FULL,0,Bone Break Fever
+33617449,RND_DiseaseBoneBreakFeverTrap,DNAM,0,Bone Break Fever is a mild common disease that affects a victim's strength and endurance.
+33617450,RND_DiseaseBrainRot,FULL,0,Brain Rot
+33617450,RND_DiseaseBrainRot,DNAM,0,BrainRot is an extremely dangerous common disease affecting the victim's mind and coordination.
+33621628,RND_DiseaseBrainRotStage0,FULL,0,Brain Rot
+33621628,RND_DiseaseBrainRotStage0,DESC,0,
+33617452,RND_DiseaseBrainRotStage0Effect,FULL,0,Brain Rot
+33617452,RND_DiseaseBrainRotStage0Effect,DNAM,0,Drains <mag> points from magicka.
+33617453,RND_DiseaseBrainRotStage1,FULL,0,Brain Rot
+33617453,RND_DiseaseBrainRotStage1,DESC,0,
+33621620,RND_DiseaseBrainRotStage1Effect,FULL,0,Brain Rot
+33621620,RND_DiseaseBrainRotStage1Effect,DNAM,0,Speech -<mag>. Spells 50% less effective.
+33617455,RND_DiseaseBrainRotStage2,FULL,0,Brain Rot
+33617455,RND_DiseaseBrainRotStage2,DESC,0,
+33593953,RND_DiseaseBrainRotStage2Effect,FULL,0,Brain Rot
+﻿33593953,RND_DiseaseBrainRotStage2Effect,DNAM,0,Magicka -<mag>. Spells 75% less effective.
+33617451,RND_DiseaseBrainRotTrap,FULL,0,Brain Rot
+33617451,RND_DiseaseBrainRotTrap,DNAM,0,BrainRot is an extremely dangerous common disease affecting the victim's mind and coordination.
+33617440,RND_DiseaseRattles,FULL,0,Rattles
+33617440,RND_DiseaseRattles,DNAM,0,Rattles is a mild common diseased affecting a victim's willpower and dexterity.
+33621630,RND_DiseaseRattlesStage0,FULL,0,Rattles
+33621630,RND_DiseaseRattlesStage0,DESC,0,
+33617442,RND_DiseaseRattlesStage0Effect,FULL,0,Rattles
+33617442,RND_DiseaseRattlesStage0Effect,DNAM,0,Stamina regenerates <mag> points more slowly.
+33617436,RND_DiseaseRattlesStage1,FULL,0,Rattles
+33617436,RND_DiseaseRattlesStage1,DESC,0,
+33621621,RND_DiseaseRattlesStage1Effect,FULL,0,Rattles
+33621621,RND_DiseaseRattlesStage1Effect,DNAM,0,Magicka regenerates <mag> points more slowly.
+33617438,RND_DiseaseRattlesStage2,FULL,0,Rattles
+33617438,RND_DiseaseRattlesStage2,DESC,0,
+33593954,RND_DiseaseRattlesStage2Effect,FULL,0,Rattles
+33593954,RND_DiseaseRattlesStage2Effect,DNAM,0,"Stamina, Magicka regeneration rate -<mag> points."
+33617441,RND_DiseaseRattlesTrap,FULL,0,Rattles
+33617441,RND_DiseaseRattlesTrap,DNAM,0,Rattles is a mild common diseased affecting a victim's willpower and dexterity.
+33616044,RND_DiseaseRockjoint,FULL,0,Rock Joint
+33616044,RND_DiseaseRockjoint,DNAM,0,Rockjoint is an acute common disease affecting a victim's manual dexterity.
+33621632,RND_DiseaseRockjointStage0,FULL,0,Rock Joint
+33621632,RND_DiseaseRockjointStage0,DESC,0,
+33616045,RND_DiseaseRockJointStage0Effect,FULL,0,Rock Joint
+33616045,RND_DiseaseRockJointStage0Effect,DNAM,0,Melee weapons <mag>% less effective.
+33616046,RND_DiseaseRockjointStage1,FULL,0,Rock Joint
+33616046,RND_DiseaseRockjointStage1,DESC,0,
+33621622,RND_DiseaseRockJointStage1Effect,FULL,0,Rock Joint
+33621622,RND_DiseaseRockJointStage1Effect,DNAM,0,Speed -<mag>%. Sneak <mag>% harder.
+33616047,RND_DiseaseRockjointStage2,FULL,0,Rock Joint
+33616047,RND_DiseaseRockjointStage2,DESC,0,
+33593955,RND_DiseaseRockJointStage2Effect,FULL,0,Rock Joint
+33593955,RND_DiseaseRockJointStage2Effect,DNAM,0,Stamina -<mag>. Carry Weight -<mag>.
+33616043,RND_DiseaseRockjointTrap,FULL,0,Rock Joint
+33616043,RND_DiseaseRockjointTrap,DNAM,0,Rockjoint is an acute common disease affecting a victim's manual dexterity.
+33616055,RND_DiseaseWitbane,FULL,0,Witbane
+33616055,RND_DiseaseWitbane,DNAM,0,Witbane is an acute common disease affecting a victim's memory and thought processes.
+33621634,RND_DiseaseWitbaneStage0,FULL,0,Witbane
+33621634,RND_DiseaseWitbaneStage0,DESC,0,
+33616057,RND_DiseaseWitbaneStage0Effect,FULL,0,Witbane
+33616057,RND_DiseaseWitbaneStage0Effect,DNAM,0,Magicka regeneration -<mag> points.
+33616052,RND_DiseaseWitbaneStage1,FULL,0,Witbane
+33616052,RND_DiseaseWitbaneStage1,DESC,0,
+33621623,RND_DiseaseWitbaneStage1Effect,FULL,0,Witbane
+33621623,RND_DiseaseWitbaneStage1Effect,DNAM,0,Magicka regeneration -<mag> points. Skills improve 25% slower.
+33616050,RND_DiseaseWitbaneStage2,FULL,0,Witbane
+33616050,RND_DiseaseWitbaneStage2,DESC,0,
+33593956,RND_DiseaseWitbaneStage2Effect,FULL,0,Witbane
+33593956,RND_DiseaseWitbaneStage2Effect,DNAM,0,Magicka -<mag> points. Skills improve 50% slower.
+33616056,RND_DiseaseWitbaneTrap,FULL,0,Witbane
+33616056,RND_DiseaseWitbaneTrap,DNAM,0,Witbane is an acute common disease affecting a victim's memory and thought processes.
+33570377,RND_DrinkAlcoholNormal,FULL,0,Normal Alcohol
+33570377,RND_DrinkAlcoholNormal,DNAM,0,Normal alcoholic beverage.
+33570378,RND_DrinkAlcoholStrong,FULL,0,Strong Alcohol
+33570378,RND_DrinkAlcoholStrong,DNAM,0,Strong alcoholic beverage.
+33567603,RND_DrinkAlcoholWeak,FULL,0,Weak Alcohol
+33567603,RND_DrinkAlcoholWeak,DNAM,0,Weak alcoholic beverage.
+34061725,RND_DrinkFromWaterfall,FULL,0,Drink From Water Source
+34061725,RND_DrinkFromWaterfall,DNAM,0,
+33827164,RND_DrinkFromWaterSource,FULL,0,Drink From Stream
+33827164,RND_DrinkFromWaterSource,DESC,0,Drink directly from water source.
+33827166,RND_DrinkFromWaterSourceEffect,FULL,0,Drink From Water Source
+33827166,RND_DrinkFromWaterSourceEffect,DNAM,0,
+33618847,RND_DrinkWater,FULL,0,Decrease Thirst
+33618847,RND_DrinkWater,DNAM,0,Decrease Thirst.
+33580087,RND_DrinkWaterBottle01,FULL,0,Small Bottle
+33580087,RND_DrinkWaterBottle01,DNAM,0,Slightly decrease thirst.
+33624399,RND_DrinkWaterBottle02,FULL,0,Medium Bottle
+33624399,RND_DrinkWaterBottle02,DNAM,0,Decrease thirst.
+33624400,RND_DrinkWaterBottle03,FULL,0,Large Bottle
+33624400,RND_DrinkWaterBottle03,DNAM,0,Greatly decrease thirst.
+33567604,RND_DrinkWaterFruit,FULL,0,Juicy Fruit
+33567604,RND_DrinkWaterFruit,DNAM,0,Juicy.
+33570381,RND_EatFoodCandy,FULL,0,Sweet Candy
+33570381,RND_EatFoodCandy,DNAM,0,Sweet Candy.
+33573144,RND_EatFoodFilling,FULL,0,Filling Meal
+33573144,RND_EatFoodFilling,DNAM,0,Filling Meal.
+33624397,RND_EatFoodFruit,FULL,0,Fresh Fruit
+33624397,RND_EatFoodFruit,DNAM,0,Fresh Fruit.
+33573145,RND_EatFoodMedium,FULL,0,Medium Meal
+33573145,RND_EatFoodMedium,DNAM,0,Medium Meal.
+33567605,RND_EatFoodSnack,FULL,0,Snack
+33567605,RND_EatFoodSnack,DNAM,0,A Light Snack.
+33571760,RND_EmptyBottle01,FULL,0,Empty Bottle
+33571762,RND_EmptyBottle02,FULL,0,Empty Bottle
+33571764,RND_EmptyBottle03,FULL,0,Empty Bottle
+33577320,RND_FlagonWater,FULL,0,Water
+33649255,RND_FoodBeggarStew,FULL,0,Beggar's Stew
+33970619,RND_FoodBoiledEgg,FULL,0,Boiled Egg
+33947179,RND_FoodCharredMeat,FULL,0,Charred Meat
+33807860,RND_FoodChickenSoup,FULL,0,Chicken Soup
+33647861,RND_FoodDogMeatStew,FULL,0,Dog Meat Stew
+33647868,RND_FoodFishSoup,FULL,0,Fish Soup
+33577313,RND_FoodHerbalTea,FULL,0,Herbal Tea
+33878234,RND_FoodHerbalTea01,FULL,0,Herbal Tea
+33647858,RND_FoodLeekPotatoSoup,FULL,0,Leek Potato Soup
+33820271,RND_FoodMushroomSoup,FULL,0,Mushroom Soup
+33806480,RND_FoodPheasantStew,FULL,0,Pheasant Stew
+33618850,RND_FoodPortionsBoiledWater02,FULL,0,Food Portions
+33618850,RND_FoodPortionsBoiledWater02,DNAM,0,2 Servings.
+33618845,RND_FoodPortionsBoiledWater03,FULL,0,Food Portions
+33618845,RND_FoodPortionsBoiledWater03,DNAM,0,3 Servings.
+33618846,RND_FoodPortionsBoiledWater03B,FULL,0,Food Portions
+33618846,RND_FoodPortionsBoiledWater03B,DNAM,0,2 Servings.
+33620234,RND_FoodPortionsBottledWater02,FULL,0,Food Portions
+33620234,RND_FoodPortionsBottledWater02,DNAM,0,2 Servings.
+33620235,RND_FoodPortionsBottledWater03,FULL,0,Food Portions
+33620235,RND_FoodPortionsBottledWater03,DNAM,0,3 Servings.
+33620236,RND_FoodPortionsBottledWater03B,FULL,0,Food Portions
+33620236,RND_FoodPortionsBottledWater03B,DNAM,0,2 Servings.
+33567606,RND_FoodPortionsBread01A,FULL,0,Food Portions
+33567606,RND_FoodPortionsBread01A,DNAM,0,2 Servings.
+33567607,RND_FoodPortionsCheeseWheel01A,FULL,0,Food Portions
+33567607,RND_FoodPortionsCheeseWheel01A,DNAM,0,6 Servings.
+33567608,RND_FoodPortionsCheeseWheel01B,FULL,0,Food Portions
+33567608,RND_FoodPortionsCheeseWheel01B,DNAM,0,5 Servings.
+33567609,RND_FoodPortionsCheeseWheel02A,FULL,0,Food Portions
+33567609,RND_FoodPortionsCheeseWheel02A,DNAM,0,8 Servings.
+33567610,RND_FoodPortionsCheeseWheel02B,FULL,0,Food Portions
+33567610,RND_FoodPortionsCheeseWheel02B,DNAM,0,7 Servings.
+33806478,RND_FoodRabbitStew,FULL,0,Rabbit Stew
+33643721,RND_FoodSalmonChowder,FULL,0,Salmon Chowder
+34064486,RND_FoodSaltedMeat,FULL,0,Salted Meat
+33581486,RND_FoodStaleApple,FULL,0,Stale Apple
+33587018,RND_FoodStaleBread01A,FULL,0,Stale Bread
+33587019,RND_FoodStaleBread01B,FULL,0,Stale Bread
+33587022,RND_FoodStaleCabbage,FULL,0,Stale Cabbage
+33587023,RND_FoodStaleCheeseWedge01,FULL,0,Stale Goat Cheese Wedge
+33587025,RND_FoodStaleCheeseWedge02,FULL,0,Stale Eidar Cheese Wedge
+33587034,RND_FoodStaleGoatMeatCooked,FULL,0,Stale Leg of Goat Roast
+33680982,RND_FoodStaleLeeksGrilled,FULL,0,Stale Grilled Leeks
+33587039,RND_FoodStalePheasantCooked,FULL,0,Stale Pheasant Roast
+33697531,RND_FoodStalePotato,FULL,0,Old Potato
+33690638,RND_FoodStalePotatoesBaked,FULL,0,Stale Baked Potatoes
+33587032,RND_FoodStaleRawMeatBeef,FULL,0,Spoiled Raw Meat
+34010658,RND_FoodStaleRawMeatDog,FULL,0,Spoiled Raw Meat
+34010664,RND_FoodStaleRawMeatGoat,FULL,0,Spoiled Raw Meat
+33587041,RND_FoodStaleRawMeatHorker,FULL,0,Spoiled Raw Meat
+34010666,RND_FoodStaleRawMeatHorse,FULL,0,Spoiled Raw Meat
+34010668,RND_FoodStaleRawMeatMammoth,FULL,0,Spoiled Raw Meat
+34010681,RND_FoodStaleRawMeatPheasant,FULL,0,Spoiled Raw Meat
+33587037,RND_FoodStaleRawMeatRabbit,FULL,0,Spoiled Raw Meat
+34010672,RND_FoodStaleRawMeatVenison,FULL,0,Spoiled Raw Meat
+33587035,RND_FoodStaleSlaughterfishCooked,FULL,0,Stale Seared Slaughterfish
+33587027,RND_FoodStaleTomato,FULL,0,Rotten Tomato
+33577315,RND_FortifySpeechcraft,FULL,0,Fortify Speechcraft
+33577315,RND_FortifySpeechcraft,DNAM,0,Speech +10 for <dur> seconds.
+33849244,RND_FPWaterskinBoiled00,FULL,0,Food Portions
+33849244,RND_FPWaterskinBoiled00,DNAM,0,4 Servings.
+33849245,RND_FPWaterskinBoiled01,FULL,0,Food Portions
+33849245,RND_FPWaterskinBoiled01,DNAM,0,3 Servings.
+33849246,RND_FPWaterskinBoiled02,FULL,0,Food Portions
+33849246,RND_FPWaterskinBoiled02,DNAM,0,2 Servings.
+33849229,RND_FPWaterskinRiver00,FULL,0,Food Portions
+33849229,RND_FPWaterskinRiver00,DNAM,0,4 Servings.
+33849232,RND_FPWaterskinRiver01,FULL,0,Food Portions
+33849232,RND_FPWaterskinRiver01,DNAM,0,3 Servings.
+33849231,RND_FPWaterskinRiver02,FULL,0,Food Portions
+33849231,RND_FPWaterskinRiver02,DNAM,0,2 Servings.
+33849257,RND_FPWaterskinSpring00,FULL,0,Food Portions
+33849257,RND_FPWaterskinSpring00,DNAM,0,4 Servings.
+33849259,RND_FPWaterskinSpring01,FULL,0,Food Portions
+33849259,RND_FPWaterskinSpring01,DNAM,0,3 Servings.
+33849260,RND_FPWaterskinSpring02,FULL,0,Food Portions
+33849260,RND_FPWaterskinSpring02,DNAM,0,2 Servings.
+33620237,RND_HerbalTea,FULL,0,Cure Hangover
+33620237,RND_HerbalTea,DNAM,0,Hangover Remedy.
+33557858,RND_HungerEffect00,FULL,0,Gluttony
+33557858,RND_HungerEffect00,DNAM,0,
+33559237,RND_HungerEffect01,FULL,0,Satiated
+33559237,RND_HungerEffect01,DNAM,0,"Health, stamina regeneration +<mag>%."
+33559238,RND_HungerEffect02,FULL,0,Peckish
+33559238,RND_HungerEffect02,DNAM,0,
+33559239,RND_HungerEffect03,FULL,0,Hungry
+33559239,RND_HungerEffect03,DNAM,0,"Health, stamina regeneration -<mag>%."
+33560628,RND_HungerEffect04,FULL,0,Very Hungry
+33560628,RND_HungerEffect04,DNAM,0,"Health, stamina regeneration -<mag>%."
+33625783,RND_HungerEffect04B,FULL,0,Very Hungry
+33625783,RND_HungerEffect04B,DNAM,0,Sneak is <mag>% harder. Attack damage -25%.
+33559240,RND_HungerEffect05,FULL,0,Starving
+33559240,RND_HungerEffect05,DNAM,0,"Health, stamina regeneration -<mag>%."
+33625784,RND_HungerEffect05B,FULL,0,Starving
+33625784,RND_HungerEffect05B,DNAM,0,Carry Weight -<mag>. Attack Damage -50%.
+33575925,RND_HungerLevel00ConsumeMessage,DESC,0,I have eaten too much.
+34144452,RND_HungerLevel00ConsumeMessageB,DESC,0,You have eaten too much.
+33566192,RND_HungerLevel00TimerMessage,DESC,0,
+34144459,RND_HungerLevel00TimerMessageB,DESC,0,
+33575926,RND_HungerLevel01ConsumeMessage,DESC,0,I'm full.
+34144453,RND_HungerLevel01ConsumeMessageB,DESC,0,You are full.
+33566193,RND_HungerLevel01TimerMessage,DESC,0,
+34144460,RND_HungerLevel01TimerMessageB,DESC,0,
+33575927,RND_HungerLevel02ConsumeMessage,DESC,0,I could have a bit more.
+34144454,RND_HungerLevel02ConsumeMessageB,DESC,0,You could have a bit more.
+33566194,RND_HungerLevel02TimerMessage,DESC,0,I'm feeling a bit peckish.
+34144461,RND_HungerLevel02TimerMessageB,DESC,0,You're feeling a bit peckish.
+33575928,RND_HungerLevel03ConsumeMessage,DESC,0,I'm still hungry.
+34144455,RND_HungerLevel03ConsumeMessageB,DESC,0,You are still hungry.
+33566195,RND_HungerLevel03TimerMessage,DESC,0,I'm hungry.
+34144462,RND_HungerLevel03TimerMessageB,DESC,0,You are hungry.
+33575929,RND_HungerLevel04ConsumeMessage,DESC,0,I need more food.
+34144456,RND_HungerLevel04ConsumeMessageB,DESC,0,You need more food.
+33566196,RND_HungerLevel04TimerMessage,DESC,0,I need to get some food soon.
+34144463,RND_HungerLevel04TimerMessageB,DESC,0,You are very hungry.
+33575930,RND_HungerLevel05ConsumeMessage,DESC,0,
+34144457,RND_HungerLevel05ConsumeMessageB,DESC,0,
+33566197,RND_HungerLevel05TimerMessage,DESC,0,I'm starving!
+34144464,RND_HungerLevel05TimerMessageB,DESC,0,You are starving!
+33628545,RND_HungerReduceAttackDamage25,FULL,0,Reduce Attack Damage
+33628545,RND_HungerReduceAttackDamage25,DESC,0,
+33628546,RND_HungerReduceAttackDamage50,FULL,0,Reduce Attack Damage
+33628546,RND_HungerReduceAttackDamage50,DESC,0,
+33562007,RND_HungerSpell00,FULL,0,Hunger
+33562007,RND_HungerSpell00,DESC,0,I have eaten too much. Speed -30%.
+33562009,RND_HungerSpell01,FULL,0,Hunger
+33562009,RND_HungerSpell01,DESC,0,"Health, stamina regeneration +10%."
+33562011,RND_HungerSpell02,FULL,0,Hunger
+33562011,RND_HungerSpell02,DESC,0,Ready for a snack.
+33562013,RND_HungerSpell03,FULL,0,Hunger
+33562013,RND_HungerSpell03,DESC,0,"Health, stamina regeneration -30%."
+33563419,RND_HungerSpell04,FULL,0,Hunger
+33563419,RND_HungerSpell04,DESC,0,"Health, stamina regeneration -60%. Sneak is 25% harder. Attack damage -25%."
+33563420,RND_HungerSpell05,FULL,0,Hunger
+33563420,RND_HungerSpell05,DESC,0,"Health, stamina regeneration -90%. Carry Weight -50. Attack Damage -50%."
+34024479,RND_IncreaseThirst,FULL,0,Increase Thirst
+34024479,RND_IncreaseThirst,DNAM,0,Increase Thirst.
+33559241,RND_InebriationEffect00,FULL,0,Sober
+33559241,RND_InebriationEffect00,DNAM,0,Sober.
+33559242,RND_InebriationEffect01,FULL,0,Dizzy
+33559242,RND_InebriationEffect01,DNAM,0,
+34118261,RND_InebriationEffect01B,FULL,0,Dizzy
+34118261,RND_InebriationEffect01B,DNAM,0,
+33559243,RND_InebriationEffect02,FULL,0,Drunk
+33559243,RND_InebriationEffect02,DNAM,0,
+34118263,RND_InebriationEffect02B,FULL,0,Drunk
+34118263,RND_InebriationEffect02B,DNAM,0,
+33573147,RND_InebriationEffect03,FULL,0,Wasted
+33573147,RND_InebriationEffect03,DNAM,0,
+33559244,RND_InebriationEffect04,FULL,0,Blackout
+33559244,RND_InebriationEffect04,DNAM,0,
+33663051,RND_InebriationPerk02,FULL,0,Drunk
+33663051,RND_InebriationPerk02,DESC,0,
+33623017,RND_InebriationPerk03,FULL,0,Wasted
+33623017,RND_InebriationPerk03,DESC,0,
+33562023,RND_InebriationSpell00,FULL,0,Inebriation
+33562023,RND_InebriationSpell00,DESC,0,I'm sober.
+33562025,RND_InebriationSpell01,FULL,0,Inebriation
+33562025,RND_InebriationSpell01,DESC,0,"Good stuff, just a bit dizzy. Damage Resist +10, Unarmed Damage +5, stumbling and random tripping."
+33562027,RND_InebriationSpell02,FULL,0,Inebriation
+33562027,RND_InebriationSpell02,DESC,0,"My head is spinning. Unarmed Damage +10, Speech -15, Magicka regeneration -15, Spells 50% less effective, duration -50%, stumbling and random tripping."
+33562029,RND_InebriationSpell03,FULL,0,Inebriation
+33562029,RND_InebriationSpell03,DESC,0,"I'm completely wasted...Magicka, Stamina regeneration -25, Spells 85% less effective, duration -85%, stumbling and random tripping."
+33574526,RND_InebriationSpell04,FULL,0,Inebriation
+33574526,RND_InebriationSpell04,DESC,0,
+33664431,RND_InitMessage,DESC,0,Loading RND v1.9.5...
+34006512,RND_InitNeedsEffects,FULL,0,InitNeedsEffects
+34006512,RND_InitNeedsEffects,DNAM,0,
+34006513,RND_InitNeedsSpell,FULL,0,Init Needs
+34006513,RND_InitNeedsSpell,DESC,0,
+33818891,RND_InnWaterAllBottlesTopic,FULL,0,"I need these bottles filled, water, please. (<Global=RND_InnWaterCostAll> gold)"
+33614662,RND_InnWaterTopic,FULL,0,I'd like some water. (<Global=RND_InnWaterCost> gold)
+33631309,RND_MainMenu,ITXT:5,0,Quit
+33631309,RND_MainMenu,ITXT:4,0,Testing
+33631309,RND_MainMenu,ITXT:3,0,Configuration
+33631309,RND_MainMenu,ITXT:2,0,Stop
+33631309,RND_MainMenu,ITXT,0,Start
+33631309,RND_MainMenu,DESC,0,"Just another needs mod
+
+These sugar balls are no longer needed if you use SkyUI3, please use Mod Configuration Menu to start this mod."
+33994095,RND_Maintenance,FULL,0,Maintenance
+33994095,RND_Maintenance,DESC,0,
+33994091,RND_MaintenanceEffect,FULL,0,Maintenance
+33994091,RND_MaintenanceEffect,DNAM,0,
+33711331,RND_MarriageRested,FULL,0,Lover's Comfort
+33711331,RND_MarriageRested,DESC,0,All skills improve <15>% faster.
+33711337,RND_MarriageRestedMessage,DESC,0,You awaken feeling your Lover's Comfort.
+33729262,RND_MenuAlcNormalConfig,ITXT:5,0,+10
+33729262,RND_MenuAlcNormalConfig,ITXT:4,0,+1
+33729262,RND_MenuAlcNormalConfig,ITXT:3,0,Back
+33729262,RND_MenuAlcNormalConfig,ITXT:2,0,-1
+33729262,RND_MenuAlcNormalConfig,ITXT,0,-10
+33729262,RND_MenuAlcNormalConfig,DESC,0,Normal Alcohol Points: %.0f
+33729259,RND_MenuAlcohol,ITXT:4,0,Back
+33729259,RND_MenuAlcohol,ITXT:3,0,Strong
+33729259,RND_MenuAlcohol,ITXT:2,7393,Normal
+33729259,RND_MenuAlcohol,ITXT,0,Weak
+33729259,RND_MenuAlcohol,DESC,0,"Alcohol Level
+=Weak: %.0f
+=Normal: %.0f
+=Strong: %.0f
+A lower value means you can get warmer and happier with a bellyful of mead."
+33729261,RND_MenuAlcStrongConfig,ITXT:5,0,+10
+33729261,RND_MenuAlcStrongConfig,ITXT:4,0,+1
+33729261,RND_MenuAlcStrongConfig,ITXT:3,0,Back
+33729261,RND_MenuAlcStrongConfig,ITXT:2,0,-1
+33729261,RND_MenuAlcStrongConfig,ITXT,0,-10
+33729261,RND_MenuAlcStrongConfig,DESC,0,Strong Alcohol Points: %.0f
+33729260,RND_MenuAlcWeakConfig,ITXT:5,0,+10
+33729260,RND_MenuAlcWeakConfig,ITXT:4,0,+1
+33729260,RND_MenuAlcWeakConfig,ITXT:3,0,Back
+33729260,RND_MenuAlcWeakConfig,ITXT:2,0,-1
+33729260,RND_MenuAlcWeakConfig,ITXT,0,-10
+33729260,RND_MenuAlcWeakConfig,DESC,0,Weak Alcohol Points: %.0f
+33703057,RND_MenuAnimationToggle,ITXT:7,0,Back
+33703057,RND_MenuAnimationToggle,ITXT:6,0,Blur Vision
+33703057,RND_MenuAnimationToggle,ITXT:5,0,Misc
+33703057,RND_MenuAnimationToggle,ITXT:4,0,Inebriation
+33703057,RND_MenuAnimationToggle,ITXT:3,0,Refill Bottle
+33703057,RND_MenuAnimationToggle,ITXT:2,0,Drink Mug
+33703057,RND_MenuAnimationToggle,ITXT,0,Eat
+33703057,RND_MenuAnimationToggle,DESC,0,"Animation Toggle (1 = On ; 0 = Off)
+=Eat Food: %.0f
+=Drink Mug: %.0f
+=Refill Bottle: %.0f
+=Inebriation: %.0f
+=Misc: %.0f
+
+Drunk Visual Effect: %.0f"
+33703052,RND_MenuBasicNeeds,ITXT:6,0,Back
+33703052,RND_MenuBasicNeeds,ITXT:5,0,Reminder
+33703052,RND_MenuBasicNeeds,ITXT:4,0,Fast Travel
+33703052,RND_MenuBasicNeeds,ITXT:3,0,Sleep
+33703052,RND_MenuBasicNeeds,ITXT:2,0,Thirst
+33703052,RND_MenuBasicNeeds,ITXT,0,Hunger
+33703052,RND_MenuBasicNeeds,DESC,0,"Basic Needs
+=Current Hunger Rate is %.0f
+=Current Thirst Rate is %.0f
+=Current Fatigue Rate is %.0f
+A higher value means you will get hungry/thirsty/tired more quickly.
+
+Slow Fatigue Rate by %.0f%% during Fast Travel 
+"
+33765114,RND_MenuCamping,ITXT:2,0,Back
+33765114,RND_MenuCamping,ITXT,0,Give me Camping Gear
+33765114,RND_MenuCamping,DESC,0,Here you can get a full set of camping gear for testing.
+33631311,RND_MenuConfiguration,ITXT:5,0,Main Menu
+33631311,RND_MenuConfiguration,ITXT:4,0,Animation Toggle
+33631311,RND_MenuConfiguration,ITXT:3,0,Disease Chance
+33631311,RND_MenuConfiguration,ITXT:2,0,Basic Needs
+33631311,RND_MenuConfiguration,ITXT,0,Alcohol
+33631311,RND_MenuConfiguration,DESC,0,"Basic Needs
+=Current Hunger Rate is %.0f
+=Current Thirst Rate is %.0f
+=Current Fatigue Rate is %.0f
+
+Disease Chance
+=Raw Food: %.0f %%
+=Stale food: %.0f %%
+=Dirty Bedroll: %.0f %%
+"
+33766496,RND_MenuDebug,ITXT:5,0,Back
+33766496,RND_MenuDebug,ITXT:4,0,Camping Gear
+33766496,RND_MenuDebug,ITXT:3,0,Disease Testing
+33766496,RND_MenuDebug,ITXT:2,0,DebugMode -Off
+33766496,RND_MenuDebug,ITXT,0,DebugMode -On
+33766496,RND_MenuDebug,DESC,0,Just another needs mod
+33703056,RND_MenuDisDirtyBedrollConfig,ITXT:5,0,+10
+33703056,RND_MenuDisDirtyBedrollConfig,ITXT:4,0,+1
+33703056,RND_MenuDisDirtyBedrollConfig,ITXT:3,0,Back
+33703056,RND_MenuDisDirtyBedrollConfig,ITXT:2,0,-1
+33703056,RND_MenuDisDirtyBedrollConfig,ITXT,0,-10
+33703056,RND_MenuDisDirtyBedrollConfig,DESC,0,Disease Chance: Sleep is %.0f%%
+33631310,RND_MenuDisease,ITXT:7,0,MainMenu
+33631310,RND_MenuDisease,ITXT:6,0,Witbane
+33631310,RND_MenuDisease,ITXT:5,0,Rockjoint
+33631310,RND_MenuDisease,ITXT:4,0,Rattles
+33631310,RND_MenuDisease,ITXT:3,0,BrainRot
+33631310,RND_MenuDisease,ITXT:2,0,BoneBreakFever
+33631310,RND_MenuDisease,ITXT,0,Ataxia
+33631310,RND_MenuDisease,DESC,0,"Here you can add a disease to yourself and get a feeling how it's like. Each disease has 3 stages, some rather mild, while some very nasty."
+33703053,RND_MenuDiseaseChance,ITXT:4,0,Back
+33703053,RND_MenuDiseaseChance,ITXT:3,0,Sleep
+33703053,RND_MenuDiseaseChance,ITXT:2,0,Stale Food
+33703053,RND_MenuDiseaseChance,ITXT,0,Raw Food
+33703053,RND_MenuDiseaseChance,DESC,0,"Disease Chance
+=Raw Food: %.0f %%
+=Stale food: %.0f %%
+=Dirty Bedroll: %.0f %%
+"
+33703054,RND_MenuDisRawFoodConfig,ITXT:5,0,+10
+33703054,RND_MenuDisRawFoodConfig,ITXT:4,0,+1
+33703054,RND_MenuDisRawFoodConfig,ITXT:3,0,Back
+33703054,RND_MenuDisRawFoodConfig,ITXT:2,0,-1
+33703054,RND_MenuDisRawFoodConfig,ITXT,0,-10
+33703054,RND_MenuDisRawFoodConfig,DESC,0,Disease Chance: Raw Food is %.0f%%
+33703055,RND_MenuDisStaleFoodConfig,ITXT:5,0,+10
+33703055,RND_MenuDisStaleFoodConfig,ITXT:4,0,+1
+33703055,RND_MenuDisStaleFoodConfig,ITXT:3,0,Back
+33703055,RND_MenuDisStaleFoodConfig,ITXT:2,0,-1
+33703055,RND_MenuDisStaleFoodConfig,ITXT,0,-10
+33703055,RND_MenuDisStaleFoodConfig,DESC,0,Disease Chance: Stale Food is %.0f%%
+33567616,RND_MenuEffect,FULL,0,Sugar Ball
+33567616,RND_MenuEffect,DNAM,0,"Sweet sugar ball, tastes very refreshing!"
+33849276,RND_MenuFastTravelSlowRateConfig,ITXT:5,0,+10
+33849276,RND_MenuFastTravelSlowRateConfig,ITXT:4,0,+1
+33849276,RND_MenuFastTravelSlowRateConfig,ITXT:3,0,Back
+33849276,RND_MenuFastTravelSlowRateConfig,ITXT:2,0,-1
+33849276,RND_MenuFastTravelSlowRateConfig,ITXT,0,-10
+33849276,RND_MenuFastTravelSlowRateConfig,DESC,0,Slow Fatigue Rate by %.0f%% during Fast Travel
+33634070,RND_MenuHungerConfig,ITXT:5,0,Force Satiation First -Off
+33634070,RND_MenuHungerConfig,ITXT:4,0,Force Satiation First -On
+33634070,RND_MenuHungerConfig,ITXT:3,0,+1
+33634070,RND_MenuHungerConfig,ITXT:2,0,Back
+33634070,RND_MenuHungerConfig,ITXT,0,-1
+33634070,RND_MenuHungerConfig,DESC,0,"Current Hunger Rate is %.0f
+"
+33871342,RND_MenuReminder0,ITXT:2,0,Back
+33871342,RND_MenuReminder0,ITXT,0,Enable
+33871342,RND_MenuReminder0,DESC,0,"Auto-Reminder is currently disabled.
+If enabled, it will display a status message or play a sound every xx minutes, if you're hungry/thirsty/tired."
+33871343,RND_MenuReminder1,ITXT:9,0,Back
+33871343,RND_MenuReminder1,ITXT:8,0,Disable
+33871343,RND_MenuReminder1,ITXT:7,0,+3
+33871343,RND_MenuReminder1,ITXT:6,0,Interval
+33871343,RND_MenuReminder1,ITXT:5,0,-3
+33871343,RND_MenuReminder1,ITXT:4,0,Message -Off
+33871343,RND_MenuReminder1,ITXT:3,0,Message -On
+33871343,RND_MenuReminder1,ITXT:2,0,Sound -Off
+33871343,RND_MenuReminder1,ITXT,0,Sound -On
+33871343,RND_MenuReminder1,DESC,0,Reminder Interval: %.0f Minutes
+33634072,RND_MenuSleepConfig,ITXT:3,0,+1
+33634072,RND_MenuSleepConfig,ITXT:2,0,Back
+33634072,RND_MenuSleepConfig,ITXT,0,-1
+33634072,RND_MenuSleepConfig,DESC,0,Current Fatigue Rate is %.0f
+33634071,RND_MenuThirstConfig,ITXT:5,0,Die of Thirst -Off
+33634071,RND_MenuThirstConfig,ITXT:4,0,Die of Thirst -On
+33634071,RND_MenuThirstConfig,ITXT:3,0,+1
+33634071,RND_MenuThirstConfig,ITXT:2,0,Back
+33634071,RND_MenuThirstConfig,ITXT,0,-1
+33634071,RND_MenuThirstConfig,DESC,0,Current Thirst Rate is %.0f
+33800964,RND_Milk,FULL,0,Milk
+33811999,RND_MilkDrinker,FULL,0,Milk Drinker's Endeavor
+33811999,RND_MilkDrinker,DNAM,0,Health +<mag> for <dur> seconds.
+34116882,RND_MilkingPerk,FULL,0,RND Milking Perk
+34116882,RND_MilkingPerk,DESC,0,
+34079664,RND_Mold,FULL,0,Mold
+33743050,RND_NeedsMessageDebug,DESC,0,"Needs Status: Hunger %.0f; Thirst %.0f; Sleep %.0f, Inebriation %.0f"
+33650637,RND_PortableBedroll,FULL,0,Traveller's Bedroll
+33755460,RND_PortableTent,FULL,0,Traveller's Tent
+33631313,RND_QuitMessage,ITXT:2,0,No
+33631313,RND_QuitMessage,ITXT,0,Yes
+33631313,RND_QuitMessage,DESC,0,"OK, I'll just leave you alone.
+
+If you want to uninstall this mod, please be sure to cure all diseases before removing the files. Would you like a cure now?"
+33567611,RND_RawFood,FULL,0,Raw Food
+33567611,RND_RawFood,DNAM,0,Raw Food.
+33567617,RND_RefillWaterBottle01,FULL,0,Refill Empty Bottle 01
+33567617,RND_RefillWaterBottle01,DNAM,0,Stand in water to refill this bottle.
+34060344,RND_RefillWaterBottle01NoWater,FULL,0,Refill Empty Bottle 01B
+34060344,RND_RefillWaterBottle01NoWater,DNAM,0,
+33575908,RND_RefillWaterBottle02,FULL,0,Refill Empty Bottle 02
+33575908,RND_RefillWaterBottle02,DNAM,0,Stand in water to refill this bottle.
+34056209,RND_RefillWaterBottle02NoWater,FULL,0,Refill Empty Bottle 02B
+34056209,RND_RefillWaterBottle02NoWater,DNAM,0,
+33575915,RND_RefillWaterBottle03,FULL,0,Refill Empty Bottle 03
+33575915,RND_RefillWaterBottle03,DNAM,0,Stand in water to refill this bottle.
+34060345,RND_RefillWaterBottle03NoWater,FULL,0,Refill Empty Bottle 03B
+34060345,RND_RefillWaterBottle03NoWater,DNAM,0,
+33849233,RND_RefillWaterskin,FULL,0,Refill Empty Waterskin
+33849233,RND_RefillWaterskin,DNAM,0,Stand in water to refill this waterskin.
+34060346,RND_RefillWaterskinNoWater,FULL,0,Refill Empty Waterskin B
+34060346,RND_RefillWaterskinNoWater,DNAM,0,
+34006509,RND_RemoveAllNeedsEffects,FULL,0,RemoveAllNeedsEffects
+34006509,RND_RemoveAllNeedsEffects,DNAM,0,
+34006510,RND_RemoveNeedsSpell,FULL,0,Remove All Needs
+34006510,RND_RemoveNeedsSpell,DESC,0,
+33711333,RND_Rested,FULL,0,Rested
+33711333,RND_Rested,DESC,0,All skills improve <5>% faster.
+33714096,RND_RestedMarriageSkillEffect,FULL,0,Lover's Comfort
+33714096,RND_RestedMarriageSkillEffect,DNAM,0,
+33711335,RND_RestedMessage,DESC,0,You awaken feeling Rested.
+33714098,RND_RestedSkillEffect,FULL,0,Rested
+33714098,RND_RestedSkillEffect,DNAM,0,
+33714099,RND_RestedWellSkillEffect,FULL,0,Well Rested
+33714099,RND_RestedWellSkillEffect,DNAM,0,
+33732021,RND_RestedWerewolf,FULL,0,Restless Beast
+33732021,RND_RestedWerewolf,DNAM,0,I'm not tired.
+33732022,RND_RestlessBeast,FULL,0,Sleep
+33732022,RND_RestlessBeast,DESC,0,I'm not tired.
+34085183,RND_RestoreHealthDuration,FULL,0,Restore Health
+34085183,RND_RestoreHealthDuration,DNAM,0,Health +<mag> per second for <dur> seconds.
+34152748,RND_RestoreMagickaDuration,FULL,0,Restore Magicka
+34152748,RND_RestoreMagickaDuration,DNAM,0,Magicka +<mag> per second for <dur> seconds.
+34085182,RND_RestoreStaminaDuration,FULL,0,Restore Stamina
+34085182,RND_RestoreStaminaDuration,DNAM,0,Stamina +<mag> per second for <dur> seconds.
+33567620,RND_ReturnEmptyBottle01,FULL,0,Return Empty Bottle
+33567620,RND_ReturnEmptyBottle01,DNAM,0,
+33574528,RND_ReturnEmptyBottle02,FULL,0,Return Empty Bottle
+33574528,RND_ReturnEmptyBottle02,DNAM,0,
+33574529,RND_ReturnEmptyBottle03,FULL,0,Return Empty Bottle
+33574529,RND_ReturnEmptyBottle03,DNAM,0,
+33849234,RND_ReturnEmptyWaterskin,FULL,0,Return Empty Waterskin
+33849234,RND_ReturnEmptyWaterskin,DNAM,0,
+34018959,RND_RiverWater,FULL,0,River Water
+34018959,RND_RiverWater,DNAM,0,River Water.
+34010674,RND_RottenFlesh,FULL,0,Rotten Flesh
+34064488,RND_SaltedMeat,FULL,0,Salted Meat
+34064488,RND_SaltedMeat,DNAM,0,Preserved Meat. Tastes very salty.
+33983026,RND_SaltToken01,FULL,0,Salt Pile
+33983027,RND_SaltToken02,FULL,0,Salt Pile
+33983028,RND_SaltToken03,FULL,0,Salt Pile
+33988545,RND_SaltTokenSkin01,FULL,0,Salt Pile
+33965098,RND_Seawater,FULL,0,Seawater
+33965098,RND_Seawater,DNAM,0,"Seawater, tastes very salty!"
+33927868,RND_Seawater01,FULL,0,Seawater
+33927870,RND_Seawater02,FULL,0,Seawater
+33927872,RND_Seawater03,FULL,0,Seawater
+33969233,RND_SeawaterMessage,DESC,0,This water tastes very salty!
+33683745,RND_SkoomaDamageMagicka,FULL,0,Skooma
+33683745,RND_SkoomaDamageMagicka,DNAM,0,Magicka -<mag> per second for <dur> seconds.
+33683744,RND_SkoomaDamageStamina,FULL,0,Skooma
+33683744,RND_SkoomaDamageStamina,DNAM,0,Stamina -<mag> per second for <dur> seconds.
+33668566,RND_SkoomaEffect,FULL,0,Skooma
+33668566,RND_SkoomaEffect,DNAM,0,Speed +<mag>%. Carry Weight +<mag> for <dur> seconds.
+33592565,RND_Sleep01SkillUse75,FULL,0,Tired
+33592565,RND_Sleep01SkillUse75,DESC,0,
+33592566,RND_Sleep02SkillUse50,FULL,0,Very Tired
+33592566,RND_Sleep02SkillUse50,DESC,0,
+33592567,RND_Sleep03SkillUse25,FULL,0,Exhausted
+33592567,RND_Sleep03SkillUse25,DESC,0,
+33638208,RND_SleepDisease,FULL,0,Dirty Bedroll
+33638208,RND_SleepDisease,DESC,0,
+33714097,RND_SleepEffect00,FULL,0,Not Tired
+33714097,RND_SleepEffect00,DNAM,0,I'm not tired.
+33567612,RND_SleepEffect01,FULL,0,Slightly Tired
+33567612,RND_SleepEffect01,DNAM,0,
+33567613,RND_SleepEffect02,FULL,0,Tired
+33567613,RND_SleepEffect02,DNAM,0,"Carry Weight -<mag>, Skills improve 25% slower."
+33567614,RND_SleepEffect03,FULL,0,Very Tired
+33567614,RND_SleepEffect03,DNAM,0,"Carry Weight -<mag>, Skills improve 50% slower."
+33685124,RND_SleepEffect03B,FULL,0,Very Tired
+33685124,RND_SleepEffect03B,DNAM,0,Speed -<mag>%.
+33567615,RND_SleepEffect04,FULL,0,Exhausted
+33567615,RND_SleepEffect04,DNAM,0,"Carry Weight -<mag>, Skills improve 75% slower."
+33685125,RND_SleepEffect04B,FULL,0,Exhausted
+33685125,RND_SleepEffect04B,DNAM,0,Speed -<mag>%.
+33778900,RND_SleepingCot,FULL,0,Cot
+33732020,RND_SleepLevel00TimerMessage,DESC,0,
+34147231,RND_SleepLevel00TimerMessageB,DESC,0,
+33602252,RND_SleepLevel01TimerMessage,DESC,0,I could use a nap.
+34147232,RND_SleepLevel01TimerMessageB,DESC,0,You could use a nap.
+33602249,RND_SleepLevel02TimerMessage,DESC,0,I feel tired.
+34147233,RND_SleepLevel02TimerMessageB,DESC,0,You feel tired.
+33602250,RND_SleepLevel03TimerMessage,DESC,0,I really need to find a bed soon.
+34147234,RND_SleepLevel03TimerMessageB,DESC,0,You are very tired.
+33602251,RND_SleepLevel04TimerMessage,DESC,0,I feel like dropping dead...
+34147235,RND_SleepLevel04TimerMessageB,DESC,0,You are exhausted!
+33602253,RND_SleepSpell00,FULL,0,Sleep
+33602253,RND_SleepSpell00,DESC,0,I'm not tired.
+33563422,RND_SleepSpell01,FULL,0,Sleep
+33563422,RND_SleepSpell01,DESC,0,Ready for a nap.
+33563424,RND_SleepSpell02,FULL,0,Sleep
+33563424,RND_SleepSpell02,DESC,0,"Carry Weight -30, Skills improve 25% slower."
+33562035,RND_SleepSpell03,FULL,0,Sleep
+33562035,RND_SleepSpell03,DESC,0,Carry Weight -60. Skills improve 50% slower. Speed -20%.
+33562037,RND_SleepSpell04,FULL,0,Sleep
+33562037,RND_SleepSpell04,DESC,0,"Carry Weight -90, Skills improve 75% slower. Speed -30%."
+34031389,RND_SpoiledJunk,FULL,0,Spoiled Junk
+34079659,RND_SpoiledJunkB,FULL,0,Spoiled Junk
+34079661,RND_SpoiledJunkEffect,FULL,0,Spoiled Junk
+34079661,RND_SpoiledJunkEffect,DNAM,0,Collect Molds.
+34079662,RND_SpoiledJunkEffectB,FULL,0,Spoiled Junk
+34079662,RND_SpoiledJunkEffectB,DNAM,0,Collect Rotten Flesh.
+33849262,RND_SpringWater01,FULL,0,Spring Water
+33849264,RND_SpringWater02,FULL,0,Spring Water
+33849270,RND_SpringWater03,FULL,0,Spring Water
+33587046,RND_StaleFood,FULL,0,Stale Food
+33587046,RND_StaleFood,DNAM,0,Stale Food.
+33577310,RND_StaleFoodCough,FULL,0,CoughCough
+33577310,RND_StaleFoodCough,DNAM,0,
+33680987,RND_StaleFoodDisgusting,FULL,0,Disgusting
+33680987,RND_StaleFoodDisgusting,DNAM,0,Disgusting.
+33920964,RND_Stumble,FULL,0,Stumble
+33920964,RND_Stumble,DNAM,0,
+33920965,RND_StumbleSpell,FULL,0,Stumble Spell
+33920965,RND_StumbleSpell,DESC,0,
+33631305,RND_SugarBall,FULL,0,+Sugar Ball
+33754081,RND_Tent,FULL,0,Tent
+33559245,RND_ThirstEffect00,FULL,0,Quenched
+33559245,RND_ThirstEffect00,DNAM,0,"Magicka, stamina regeneration +<mag>%."
+33559246,RND_ThirstEffect01,FULL,0,Slightly Thirsty
+33559246,RND_ThirstEffect01,DNAM,0,
+33559247,RND_ThirstEffect02,FULL,0,Thirsty
+33559247,RND_ThirstEffect02,DNAM,0,"Magicka, stamina regeneration -<mag>%."
+33566200,RND_ThirstEffect03,FULL,0,Very Thirsty
+33566200,RND_ThirstEffect03,DNAM,0,"Magicka, stamina regeneration -<mag>%."
+33627163,RND_ThirstEffect03B,FULL,0,Very Thirsty
+33627163,RND_ThirstEffect03B,DNAM,0,Time between shouts +<mag>%. Spells 25% less effective.
+33559248,RND_ThirstEffect04,FULL,0,Dehydrated
+33559248,RND_ThirstEffect04,DNAM,0,"Magicka, stamina regeneration -<mag>%."
+33627164,RND_ThirstEffect04B,FULL,0,Dehydrated
+33627164,RND_ThirstEffect04B,DNAM,0,Time between shouts +<mag>%. Spells 50% less effective.
+33578700,RND_ThirstLevel00ConsumeMessage,DESC,0,My thirst has been quenched.
+34147223,RND_ThirstLevel00ConsumeMessageB,DESC,0,You are no longer thirsty.
+33566208,RND_ThirstLevel00TimerMessage,DESC,0,
+34147226,RND_ThirstLevel00TimerMessageB,DESC,0,
+33578701,RND_ThirstLevel01ConsumeMessage,DESC,0,I can have a bit more water.
+34147224,RND_ThirstLevel01ConsumeMessageB,DESC,0,You can have a bit more water.
+33566209,RND_ThirstLevel01TimerMessage,DESC,0,I could use a drink.
+34147227,RND_ThirstLevel01TimerMessageB,DESC,0,You are slightly thirsty.
+33578702,RND_ThirstLevel02ConsumeMessage,DESC,0,I need more water.
+34147225,RND_ThirstLevel02ConsumeMessageB,DESC,0,You need more water.
+33566210,RND_ThirstLevel02TimerMessage,DESC,0,My throat feels a bit dry.
+34147228,RND_ThirstLevel02TimerMessageB,DESC,0,You are thirsty.
+33578703,RND_ThirstLevel03ConsumeMessage,DESC,0,I need more water.
+34147222,RND_ThirstLevel03ConsumeMessageB,DESC,0,You need more water.
+33566211,RND_ThirstLevel03TimerMessage,DESC,0,I'm very thirsty.
+34147229,RND_ThirstLevel03TimerMessageB,DESC,0,You are very thirsty.
+33578704,RND_ThirstLevel04ConsumeMessage,DESC,0,
+34147221,RND_ThirstLevel04ConsumeMessageB,DESC,0,
+33566212,RND_ThirstLevel04TimerMessage,DESC,0,I feel like dying...I need water NOW!
+34147230,RND_ThirstLevel04TimerMessageB,DESC,0,You are dehydrated!
+33627165,RND_ThirstReduceSpellMagnitude25,FULL,0,Reduce Spell Magnitude
+33627165,RND_ThirstReduceSpellMagnitude25,DESC,0,
+33627166,RND_ThirstReduceSpellMagnitude50,FULL,0,Reduce Spell Magnitude
+33627166,RND_ThirstReduceSpellMagnitude50,DESC,0,
+33562017,RND_ThirstSpell00,FULL,0,Thirst
+33562017,RND_ThirstSpell00,DESC,0,"Magicka, stamina regeneration +10%."
+33562019,RND_ThirstSpell01,FULL,0,Thirst
+33562019,RND_ThirstSpell01,DESC,0,Ready for a drink.
+33562021,RND_ThirstSpell02,FULL,0,Thirst
+33562021,RND_ThirstSpell02,DESC,0,"Magicka, stamina regeneration -30%."
+33566202,RND_ThirstSpell03,FULL,0,Thirst
+33566202,RND_ThirstSpell03,DESC,0,"Magicka, stamina regeneration -60%. Time between shouts +25%. Spells 25% less effective."
+33566204,RND_ThirstSpell04,FULL,0,Thirst
+33566204,RND_ThirstSpell04,DESC,0,"Magicka, stamina regeneration -90%. Time between shouts +50%. Spells 50% less effective."
+33752700,RND_Tinderbox,FULL,0,Tinderbox
+34081044,RND_UnarmedDamage,FULL,0,Unarmed Damage Boost
+34081044,RND_UnarmedDamage,DNAM,0,
+33849236,RND_WaterskinBoiled00,FULL,0,Waterskin(Boiled Water): Full
+33849238,RND_WaterskinBoiled01,FULL,0,Waterskin(Boiled Water): 3/4
+33849242,RND_WaterskinBoiled02,FULL,0,Waterskin(Boiled Water): 2/4
+33849240,RND_WaterskinBoiled03,FULL,0,Waterskin(Boiled Water): 1/4
+33842327,RND_WaterskinEmpty,FULL,0,Waterskin
+33835435,RND_WaterskinRiver00,FULL,0,Waterskin(River Water): Full
+33849224,RND_WaterskinRiver01,FULL,0,Waterskin(River Water): 3/4
+33849225,RND_WaterskinRiver02,FULL,0,Waterskin(River Water): 2/4
+33849227,RND_WaterskinRiver03,FULL,0,Waterskin(River Water): 1/4
+33988542,RND_WaterskinSeawater,FULL,0,Waterskin(Seawater)
+33849250,RND_WaterskinSpring00,FULL,0,Waterskin(Spring Water): Full
+33849252,RND_WaterskinSpring01,FULL,0,Waterskin(Spring Water): 3/4
+33849253,RND_WaterskinSpring02,FULL,0,Waterskin(Spring Water): 2/4
+33849255,RND_WaterskinSpring03,FULL,0,Waterskin(Spring Water): 1/4
+33995476,RND_WaterToken01,FULL,0,Water
+33995477,RND_WaterToken02,FULL,0,Water
+33995478,RND_WaterToken03,FULL,0,Water (2)
+33995479,RND_WaterTokenSkin01,FULL,0,Water (3)
+33711329,RND_WellRested,FULL,0,Well Rested
+33711329,RND_WellRested,DESC,0,All skills improve <10>% faster.
+33711336,RND_WellRestedMessage,DESC,0,You awaken feeling Well Rested.
+33703059,RND_WerewolfFeed,FULL,0,Werewolf Feed
+33703059,RND_WerewolfFeed,DNAM,0,Werewolf Feed.
+33593948,RND_WitbaneSkillUse50,FULL,0,Reduce Skill Use
+33593948,RND_WitbaneSkillUse50,DESC,0,
+33663052,RND_WitbaneSkillUse75,FULL,0,Reduce Skill Use
+33663052,RND_WitbaneSkillUse75,DESC,0,
+33994097,RNDConfigQuest,FULL,0,RNDConfigQuest
+33994090,RNDMaintenanceQuest,FULL,0,RNDMaintenanceQuest
+33868572,RNDReminderQuest,FULL,0,RNDReminderQuest
+34034147,RNDSpoilageQuest,FULL,0,RNDSpoilageQuest
+33614659,RNDTrackingQuest,FULL,0,RNDTrackingQuest
+359034,Skooma,FULL,0,Skooma
+901490,TGTQ02BalmoraBlue,FULL,0,Balmora Blue
+1090122,TrapDiseaseAtaxia,FULL,0,Ataxia
+1090122,TrapDiseaseAtaxia,DESC,0,
+1090124,TrapDiseaseBoneBreakFever,FULL,0,Bone Break Fever
+1090124,TrapDiseaseBoneBreakFever,DESC,0,
+1090125,TrapDiseaseBrainRot,FULL,0,Brain Rot
+1090125,TrapDiseaseBrainRot,DESC,0,
+1090126,TrapDiseaseRattles,FULL,0,Rattles
+1090126,TrapDiseaseRattles,DESC,0,
+1090127,TrapDiseaseRockjoint,FULL,0,Rock Joint
+1090127,TrapDiseaseRockjoint,DESC,0,
+1090128,TrapDiseaseWitbane,FULL,0,Witbane
+1090128,TrapDiseaseWitbane,DESC,0,
+758231,WEDL03CyrodilicBrandy,FULL,0,Cyrodilic Brandy
+1038350,WellRestedMessage,DESC,0,
+967511,WerewolfFeed,FULL,0,Werewolf Feed
+967511,WerewolfFeed,DESC,0,
+259261,WindhelmDoubleDistilledSkooma,FULL,0,Double-Distilled Skooma
