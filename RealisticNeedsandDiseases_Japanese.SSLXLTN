@@ -317,9 +317,9 @@
 33573145,RND_EatFoodMedium,DNAM,0,食べるとお腹がふくれそうだ。
 33567605,RND_EatFoodSnack,FULL,0,少し空腹が満たされる
 33567605,RND_EatFoodSnack,DNAM,0,空腹を凌げそうだ。
-33571760,RND_EmptyBottle01,FULL,0,[容器]空のボトル[小]
-33571762,RND_EmptyBottle02,FULL,0,[容器]空のボトル[中]
-33571764,RND_EmptyBottle03,FULL,0,[容器]空のボトル[大]
+33571760,RND_EmptyBottle01,FULL,0,[飲料：容器]空のボトル[小]
+33571762,RND_EmptyBottle02,FULL,0,[飲料：容器]空のボトル[中]
+33571764,RND_EmptyBottle03,FULL,0,[飲料：容器]空のボトル[大]
 33577320,RND_FlagonWater,FULL,0,[飲料]調理用水
 33649255,RND_FoodBeggarStew,FULL,0,[シチュー・腐敗]乞食スープ
 33970619,RND_FoodBoiledEgg,FULL,0,ゆで卵
@@ -867,7 +867,7 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 33849238,RND_WaterskinBoiled01,FULL,0,[飲料]水筒(きれいな水): 3/4
 33849242,RND_WaterskinBoiled02,FULL,0,[飲料]水筒(きれいな水): 2/4
 33849240,RND_WaterskinBoiled03,FULL,0,[飲料]水筒(きれいな水): 1/4
-33842327,RND_WaterskinEmpty,FULL,0,[容器]水筒
+33842327,RND_WaterskinEmpty,FULL,0,[飲料：容器]水筒
 33835435,RND_WaterskinRiver00,FULL,0,[飲料]水筒(川の水): 満杯
 33849224,RND_WaterskinRiver01,FULL,0,[飲料]水筒(川の水): 3/4
 33849225,RND_WaterskinRiver02,FULL,0,[飲料]水筒(川の水): 2/4
