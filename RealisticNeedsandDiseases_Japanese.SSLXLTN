@@ -445,17 +445,17 @@
 33628545,RND_HungerReduceAttackDamage25,DESC,0,
 33628546,RND_HungerReduceAttackDamage50,FULL,0,相手に与えるダメージが減少
 33628546,RND_HungerReduceAttackDamage50,DESC,0,
-33562007,RND_HungerSpell00,FULL,0,空腹
+33562007,RND_HungerSpell00,FULL,0,暴食
 33562007,RND_HungerSpell00,DESC,0,少し食べ過ぎてしまったようだ。移動速度 <-30>%
-33562009,RND_HungerSpell01,FULL,0,空腹
+33562009,RND_HungerSpell01,FULL,0,満腹
 33562009,RND_HungerSpell01,DESC,0,体力とスタミナの回復速度 <+10>%
-33562011,RND_HungerSpell02,FULL,0,空腹
+33562011,RND_HungerSpell02,FULL,0,軽い空腹
 33562011,RND_HungerSpell02,DESC,0,小腹が空いた。
 33562013,RND_HungerSpell03,FULL,0,空腹
 33562013,RND_HungerSpell03,DESC,0,体力とスタミナの回復速度 <-30>%
-33563419,RND_HungerSpell04,FULL,0,空腹
+33563419,RND_HungerSpell04,FULL,0,強い空腹
 33563419,RND_HungerSpell04,DESC,0,体力とスタミナの回復速度 <-60>%、隠密能力 <-25>%、相手に与えるダメージ <-25>%
-33563420,RND_HungerSpell05,FULL,0,空腹
+33563420,RND_HungerSpell05,FULL,0,飢餓
 33563420,RND_HungerSpell05,DESC,0,体力とスタミナの回復速度 <-90>%、積載重量 <-50> 、相手に与えるダメージ <-50>%
 34024479,RND_IncreaseThirst,FULL,0,喉が渇く
 34024479,RND_IncreaseThirst,DNAM,0,喉が渇きそうだ。
@@ -477,15 +477,15 @@
 33663051,RND_InebriationPerk02,DESC,0,
 33623017,RND_InebriationPerk03,FULL,0,[RN]酩酊度：泥酔
 33623017,RND_InebriationPerk03,DESC,0,
-33562023,RND_InebriationSpell00,FULL,0,酔い
+33562023,RND_InebriationSpell00,FULL,0,素面
 33562023,RND_InebriationSpell00,DESC,0,私は素面だ。
-33562025,RND_InebriationSpell01,FULL,0,酔い
+33562025,RND_InebriationSpell01,FULL,0,ほろ酔い
 33562025,RND_InebriationSpell01,DESC,0,良い気分だ。少し目眩がする。ダメージ耐性 <+10>%、素手ダメージ <+5> 。たまに意識を失う。
-33562027,RND_InebriationSpell02,FULL,0,酔い
+33562027,RND_InebriationSpell02,FULL,0,酩酊
 33562027,RND_InebriationSpell02,DESC,0,頭がクラクラする。素手ダメージ <+10> 、話術 <-15> 、マジカ回復速度 <-15>%、呪文の効果と持続時間 <-50>%、たまに意識を失う。
-33562029,RND_InebriationSpell03,FULL,0,酔い
+33562029,RND_InebriationSpell03,FULL,0,泥酔
 33562029,RND_InebriationSpell03,DESC,0,もう何がなんだかわからない...マジカとスタミナの回復速度 <-25>%、呪文の効果と持続時間 <-85>%、たまに意識を失う。
-33574526,RND_InebriationSpell04,FULL,0,酔い
+33574526,RND_InebriationSpell04,FULL,0,昏睡
 33574526,RND_InebriationSpell04,DESC,0,
 33664431,RND_InitMessage,DESC,0,Loading RND v1.9.5...
 34006512,RND_InitNeedsEffects,FULL,0,InitNeedsEffects
@@ -506,7 +506,7 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 33994095,RND_Maintenance,DESC,0,
 33994091,RND_MaintenanceEffect,FULL,0,Maintenance
 33994091,RND_MaintenanceEffect,DNAM,0,
-33711331,RND_MarriageRested,FULL,0,[恋人の安息]
+33711331,RND_MarriageRested,FULL,69490,恋人の癒し
 33711331,RND_MarriageRested,DESC,0,全てのスキル成長速度が <15>%速くなる。
 33711337,RND_MarriageRestedMessage,DESC,69345,目が覚めて、恋人の癒しを感じた。
 33729262,RND_MenuAlcNormalConfig,ITXT:5,0,+10
@@ -700,7 +700,7 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 34006509,RND_RemoveAllNeedsEffects,DNAM,0,
 34006510,RND_RemoveNeedsSpell,FULL,0,Remove All Needs
 34006510,RND_RemoveNeedsSpell,DESC,0,
-33711333,RND_Rested,FULL,0,休養
+33711333,RND_Rested,FULL,69490,休息
 33711333,RND_Rested,DESC,0,全てのスキル成長速度が <5>%速くなる。
 33714096,RND_RestedMarriageSkillEffect,FULL,0,[RN]疲労度：恋人の安息を得た
 33714096,RND_RestedMarriageSkillEffect,DNAM,0,
@@ -781,15 +781,15 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 34147234,RND_SleepLevel03TimerMessageB,DESC,0,とても疲れています。
 33602251,RND_SleepLevel04TimerMessage,DESC,0,足元から落ちていくような感じがする...
 34147235,RND_SleepLevel04TimerMessageB,DESC,0,疲労が限界に達しています！
-33602253,RND_SleepSpell00,FULL,0,休養
+33602253,RND_SleepSpell00,FULL,0,休息明け
 33602253,RND_SleepSpell00,DESC,0,今は疲れを感じない。
-33563422,RND_SleepSpell01,FULL,0,睡眠
-33563422,RND_SleepSpell01,DESC,0,少し休みたい。
-33563424,RND_SleepSpell02,FULL,0,睡眠
+33563422,RND_SleepSpell01,FULL,0,軽い疲労
+33563422,RND_SleepSpell01,DESC,0,少し疲れてきた。
+33563424,RND_SleepSpell02,FULL,0,疲労
 33563424,RND_SleepSpell02,DESC,0,積載重量 <-30> 、スキル成長速度 <-25>%
-33562035,RND_SleepSpell03,FULL,0,睡眠
+33562035,RND_SleepSpell03,FULL,0,強い疲労
 33562035,RND_SleepSpell03,DESC,0,積載重量 <-60> 、スキルの成長速度 <-50>%、移動速度 <-20>%
-33562037,RND_SleepSpell04,FULL,0,睡眠
+33562037,RND_SleepSpell04,FULL,0,疲労困憊
 33562037,RND_SleepSpell04,DESC,0,積載重量 <-90> 、スキルの成長速度 <-75>%、移動速度 <-30>%
 34031389,RND_SpoiledJunk,FULL,0,古びた食べ物
 34079659,RND_SpoiledJunkB,FULL,0,古びた食べ物
@@ -850,20 +850,19 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 33627165,RND_ThirstReduceSpellMagnitude25,DESC,0,
 33627166,RND_ThirstReduceSpellMagnitude50,FULL,0,呪文の値が減少
 33627166,RND_ThirstReduceSpellMagnitude50,DESC,0,
-33562017,RND_ThirstSpell00,FULL,0,渇き
+33562017,RND_ThirstSpell00,FULL,0,潤い
 33562017,RND_ThirstSpell00,DESC,0,マジカとスタミナの回復速度 <+10>%
-33562019,RND_ThirstSpell01,FULL,0,渇き
-33562019,RND_ThirstSpell01,DESC,0,少しだけ喉が渇いた。
+33562019,RND_ThirstSpell01,FULL,0,軽い渇き
+33562019,RND_ThirstSpell01,DESC,0,少し喉が渇いた。
 33562021,RND_ThirstSpell02,FULL,0,渇き
 33562021,RND_ThirstSpell02,DESC,0,マジカとスタミナの回復速度 <-30>%
-33566202,RND_ThirstSpell03,FULL,0,渇き
+33566202,RND_ThirstSpell03,FULL,0,強い渇き
 33566202,RND_ThirstSpell03,DESC,0,マジカとスタミナの回復速度が <-60>%、シャウトのクールタイム <+25>%、呪文の効果 <-25>%
-33566204,RND_ThirstSpell04,FULL,0,渇き
+33566204,RND_ThirstSpell04,FULL,0,脱水症状
 33566204,RND_ThirstSpell04,DESC,0,マジカとスタミナの回復速度 <-90>%、シャウトのクールタイム <+50>%、呪文の効果 <-50>%
 33752700,RND_Tinderbox,FULL,0,火口箱
 34081044,RND_UnarmedDamage,FULL,72547,素手ダメージ上昇
 34081044,RND_UnarmedDamage,DNAM,0,
-33711329,RND_WellRested,FULL,0,[十分な休息]
 33849236,RND_WaterskinBoiled00,FULL,0,[飲料]水筒(きれいな水): 満杯
 33849238,RND_WaterskinBoiled01,FULL,0,[飲料]水筒(きれいな水): 3/4
 33849242,RND_WaterskinBoiled02,FULL,0,[飲料]水筒(きれいな水): 2/4
@@ -882,6 +881,7 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 33995477,RND_WaterToken02,FULL,0,[飲料]調理用水
 33995478,RND_WaterToken03,FULL,0,[飲料]調理用水 (2)
 33995479,RND_WaterTokenSkin01,FULL,0,[飲料]調理用水 (3)
+33711329,RND_WellRested,FULL,69490,休息
 33711329,RND_WellRested,DESC,0,全てのスキル成長速度が <10>%速くなる。
 33711336,RND_WellRestedMessage,DESC,0,目が覚めて、十分な休息を感じた。
 33703059,RND_WerewolfFeed,FULL,67105,ウェアウルフの吸血
