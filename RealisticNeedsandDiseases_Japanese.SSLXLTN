@@ -791,8 +791,8 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 33562035,RND_SleepSpell03,DESC,0,積載重量 <-60> 、スキルの成長速度 <-50>%、移動速度 <-20>%
 33562037,RND_SleepSpell04,FULL,0,疲労困憊
 33562037,RND_SleepSpell04,DESC,0,積載重量 <-90> 、スキルの成長速度 <-75>%、移動速度 <-30>%
-34031389,RND_SpoiledJunk,FULL,0,古びた食べ物
-34079659,RND_SpoiledJunkB,FULL,0,古びた食べ物
+34031389,RND_SpoiledJunk,FULL,0,[廃棄物]カビた食べ物
+34079659,RND_SpoiledJunkB,FULL,0,[廃棄物]腐った食べ物
 34079661,RND_SpoiledJunkEffect,FULL,0,古びた食べ物
 34079661,RND_SpoiledJunkEffect,DNAM,0,カビが手に入る。
 34079662,RND_SpoiledJunkEffectB,FULL,0,古びた食べ物
