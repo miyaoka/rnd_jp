@@ -1,0 +1,916 @@
+216158,Ale,FULL,9638,エール
+604173,AleWhiterunQuest,FULL,12023,アルゴニアン・エール
+2117,BarrelFood01,FULL,73317,樽
+1104321,BarrelMeat01,FULL,73317,樽
+1107938,BeastBloodMessage,DESC,0,
+1032181,CureDiseaseEffect,FULL,0,疾病治療
+1032181,CureDiseaseEffect,DNAM,0,
+1057050,DA03FoodMammothMeat,FULL,70114,マンモスの鼻
+976325,DA11CannibalismAbility,FULL,67282,ナミラの祝福
+976325,DA11CannibalismAbility,DESC,68239,体力回復が <50>%、 <5> 分間早くなる。
+693857,DA14Water,FULL,35494,聖水
+837689,DialogueGenericVigilantsOfStendarrCureDiseaseTopic,FULL,46302,治療を頼む
+755580,DiseaseAtaxia,FULL,72143,運動不全症
+755580,DiseaseAtaxia,DESC,0,
+755582,DiseaseBoneBreakFever,FULL,56762,骨折熱
+755582,DiseaseBoneBreakFever,DESC,0,
+755583,DiseaseBrainRot,FULL,72203,腐脳病
+755583,DiseaseBrainRot,DESC,0,
+755585,DiseaseRattles,FULL,19614,音害症
+755585,DiseaseRattles,DESC,66728,スタミナの回復速度が半分になる。
+755586,DiseaseRockjoint,FULL,72035,重関節症
+755586,DiseaseRockjoint,DESC,0,
+755587,DiseaseWitbane,FULL,72126,知減病
+755587,DiseaseWitbane,DESC,66658,マジカの回復速度が半分になる。
+830971,FavorFoodMarkarthSpicedBeef,FULL,22404,スパイスを振った牛肉
+853342,FavorSorexRum,FULL,29844,ストロス・エムカイ・ラム
+100703,FirebrandWine,FULL,29011,ファイアブランド・ワイン
+412462,FoodApple,FULL,59697,赤いリンゴ
+412463,FoodApple02,FULL,27206,緑のリンゴ
+965121,FoodAppleCabbageStew,FULL,66356,アップルキャベツのシチュー
+416921,FoodBeef,FULL,8423,牛の肉
+467432,FoodBeefCooked,FULL,59339,調理した牛肉
+1000212,FoodBeefStew,FULL,67576,ビーフシチュー
+181082,FoodBlackBriarMead,FULL,47166,ブラック・ブライアのハチミツ酒
+1009983,FoodBlackBriarMeadPrivateReserve,FULL,66833,ブラック・ブライアのリザーブ
+412464,FoodBoiledCremeTreat,FULL,14556,クリーム煮
+416919,FoodBread01A,FULL,65008,パン
+416920,FoodBread01B,FULL,65008,パン
+412479,FoodCabbage,FULL,61928,キャベツ
+1000219,FoodCabbagePotatoSoup,FULL,68018,キャベツのポテトスープ
+965122,FoodCabbageSoup,FULL,66478,キャベツスープ
+412480,FoodCarrot,FULL,28881,ニンジン
+951368,FoodCharredSkeeverMeat,FULL,51183,焼け焦げたスキーヴァーの肉
+412465,FoodCheeseWedge01,FULL,57369,ヤギチーズの切れはし
+412466,FoodCheeseWedge02,FULL,53832,エイダールチーズの切れはし
+412467,FoodCheeseWheel01A,FULL,57895,ヤギのホールチーズ
+412469,FoodCheeseWheel01B,FULL,59864,ヤギチーズ
+412468,FoodCheeseWheel02A,FULL,11656,エイダールのホールチーズ
+412470,FoodCheeseWheel02B,FULL,6277,エイダールチーズ
+991249,FoodChicken,FULL,67756,鶏の胸肉
+952647,FoodChickenCooked,FULL,67184,鶏の胸肉のグリル
+965123,FoodClamMeat,FULL,66479,貝の肉
+973614,FoodDogMeat,FULL,66778,イヌの肉
+1000224,FoodElsweyrFondue,FULL,66890,エルスウェーアフォンデュ
+416922,FoodGoatMeat,FULL,66261,ヤギの足
+467532,FoodGoatMeatCooked,FULL,66040,ヤギの足のロースト
+1103462,FoodGourd,FULL,11000,ウリ
+1063245,FoodHoney,FULL,70666,ハチミツ
+412472,FoodHoneyNutTreat,FULL,59695,ハニーナッツのおやつ
+329930,FoodHonningbrewMead,FULL,51868,ホニングブリューハチミツ酒
+416923,FoodHorkerMeat,FULL,65099,ホーカーの肉
+467534,FoodHorkerMeatCooked,FULL,65182,ホーカーのローフ
+1000213,FoodHorkerStew,FULL,68145,ホーカーのシチュー
+416924,FoodHorseMeat,FULL,65483,馬の肉
+467632,FoodHorseMeatCooked,FULL,65948,馬肉のロースト
+420261,FoodLeek,FULL,9362,リーキ
+412478,FoodLeeksGrilled,FULL,21197,リーキのグリル
+412473,FoodLongTaffyTreat,FULL,63842,ロングタフィーのおやつ
+420259,FoodMammothCheeseBowl,FULL,35213,器入りマンモスチーズ
+420260,FoodMammothMeat,FULL,70114,マンモスの鼻
+467643,FoodMammothMeatCooked,FULL,65429,マンモスステーキ
+841236,FoodMarriageMeal,FULL,67304,家庭料理
+216157,FoodMead,FULL,59810,ノルド・ハチミツ酒
+416925,FoodPheasant,FULL,65197,キジの胸肉
+467655,FoodPheasantCooked,FULL,66023,キジのロースト
+412483,FoodPie,FULL,58705,アップルパイ
+412481,FoodPotato,FULL,64095,ジャガイモ
+412474,FoodPotatoesBaked,FULL,34525,ベイクドポテト
+416926,FoodRabbit,FULL,65111,兎の足
+467650,FoodRabbitCooked,FULL,66258,兎肉のロースト
+416927,FoodSalmon,FULL,65141,サケの切り身
+412475,FoodSalmonCooked,FULL,65272,サケのステーキ
+412476,FoodSlaughterfishCooked,FULL,19094,スローターフィッシュの焼き身
+545640,FoodSolitudeSpicedWine,FULL,15218,スパイス入りワイン
+412477,FoodSweetroll,FULL,38544,スイート・ロール
+412482,FoodTomato,FULL,31902,トマト
+1000220,FoodTomatoSoup,FULL,67639,トマトスープ
+1000222,FoodVegetableSoup,FULL,68148,野菜スープ
+420258,FoodVenison,FULL,66028,鹿肉
+467645,FoodVenisonCooked,FULL,65456,鹿肉のチョップ
+1000221,FoodVenisonStew,FULL,66920,鹿肉のシチュー
+201531,FoodWineAlto,FULL,40407,アルトワイン
+807753,FoodWineAltoA,FULL,40407,アルトワイン
+201532,FoodWineBottle02,FULL,57427,ワイン
+807752,FoodWineBottle02A,FULL,57427,ワイン
+359035,FreeformAngasMillKordirsSkooma,FULL,43754,コーディール・スクゥーマ
+349672,FreeformDragonBridgeMead,FULL,19436,ドラゴンブレス酒
+1038351,MarriageRestedMessage,DESC,0,
+645702,MerchantDawnstarWindpeakInnChest,FULL,57699,宝箱
+682993,MerchantDragonBridgeFourShieldsTavernChest,FULL,57699,宝箱
+682995,MerchantFalkreathDeadMansDrinkChest,FULL,57699,宝箱
+657158,MerchantIvarsteadVilemyrInnChest,FULL,57699,宝箱
+671525,MerchantKynesgroveBraidwoodInnChest,FULL,57699,宝箱
+607108,MerchantMarkarthSilverFishInnChest,FULL,57699,宝箱
+645715,MerchantMorthalMoorsideInnChest,FULL,57699,宝箱
+648331,MerchantNightgateInnChest,FULL,57699,宝箱
+648287,MerchantOldHroldanHangedManInnChest,FULL,57699,宝箱
+657155,MerchantRiftenBeeandBarbChest,FULL,57699,宝箱
+651856,MerchantRoriksteadFrostFruitInnChest,FULL,57699,宝箱
+683023,MerchantSolitudeFruitJala,FULL,57699,宝箱
+682992,MerchantSolitudeWinkingSkeeverChest,FULL,57699,宝箱
+641786,MerchantWhiterunBannerdMareChest,FULL,57699,宝箱
+671487,MerchantWindhelmCandlehearthHallChest,FULL,57699,宝箱
+645727,MerchantWinterholdFrozenHearthChest,FULL,57699,宝箱
+622436,MiscSack02Large,FULL,59414,袋
+622440,MiscSack02LargeFlat,FULL,59414,袋
+622442,MiscSack02SmallFlat,FULL,59414,袋
+622420,MiscSackLarge,FULL,74788,大きな袋
+622444,MiscSackLargeFlat01,FULL,74788,大きな袋
+622446,MiscSackLargeFlat02,FULL,74788,大きな袋
+622448,MiscSackLargeFlat03,FULL,74788,大きな袋
+1079946,MQ101JuniperMead,FULL,71431,ジュニパーベリー入りのハチミツ酒
+224595,MQ201Drink,FULL,14158,コロヴィアン・ブランデー
+992638,MS14WineAltoA,FULL,67311,ジェシカのワイン
+33614663,N/A,NAM1,0,.
+33675464,N/A,NAM1,0,.
+33675465,N/A,NAM1,0,.
+33675466,N/A,NAM1,0,.
+33818892,N/A,NAM1,0,.
+33863058,N/A,NAM1,0,.
+838080,N/A,NAM1,23347,ステンダールの光がお前の病を浄化するだろう
+314443,PuddleWater,FULL,74959,MaterialWaterPuddle
+1040530,PuddleWaterFlow,FULL,74959,MaterialWaterPuddle
+1036507,PuddleWaterLiteFog,FULL,74959,MaterialWaterPuddle
+1104236,RestedMarriageSkillEffect,FULL,9678,恋人の癒し
+1104236,RestedMarriageSkillEffect,DNAM,0,
+1038349,RestedMessage,DESC,0,
+1104232,RestedSkillEffect,FULL,69490,休息
+1104232,RestedSkillEffect,DNAM,0,
+1104235,RestedWellSkillEffect,FULL,72538,十分な休息
+1104235,RestedWellSkillEffect,DNAM,0,
+416823,RiftenSpecial01,FULL,18148,ベルベット・レカンス
+416824,RiftenSpecial02,FULL,15292,ホワイトゴールド・タワー
+416825,RiftenSpecial03,FULL,42754,クリフ・レーサー
+33663050,RND_AtaxiaReduceAttackDamage25,FULL,0,相手に与えるダメージが減少
+33663050,RND_AtaxiaReduceAttackDamage25,DESC,0,
+33711339,RND_BeastBloodMessage,DESC,74689,野獣の血が安眠を妨げている。
+33650636,RND_Bedroll,FULL,64874,ベッドロール
+34105856,RND_Blackout,FULL,0,[昏睡]
+34105856,RND_Blackout,DNAM,0,
+34105854,RND_BlackoutSpell,FULL,0,Blackout Spell
+34105854,RND_BlackoutSpell,DESC,0,
+33575916,RND_BoiledWater01,FULL,0,きれいな水
+33575918,RND_BoiledWater02,FULL,0,きれいな水
+33618848,RND_BoiledWater02B,FULL,0,きれいな水
+33575920,RND_BoiledWater03,FULL,0,きれいな水
+33618841,RND_BoiledWater03B,FULL,0,きれいな水
+33618843,RND_BoiledWater03C,FULL,0,きれいな水
+33593946,RND_BoneBreakFeverReduceAttackDamage25,FULL,0,相手に与えるダメージが減少
+33593946,RND_BoneBreakFeverReduceAttackDamage25,DESC,0,
+33575909,RND_BottledWater01,FULL,0,川の水
+33575911,RND_BottledWater02,FULL,0,川の水
+33618851,RND_BottledWater02B,FULL,0,川の水
+33575913,RND_BottledWater03,FULL,0,川の水
+33618853,RND_BottledWater03B,FULL,0,川の水
+33618855,RND_BottledWater03C,FULL,0,川の水
+33593949,RND_BrainRotReduceSpellMagnitude50,FULL,0,呪文の値が減少
+33593949,RND_BrainRotReduceSpellMagnitude50,DESC,0,
+33593950,RND_BrainRotReduceSpellMagnitude75,FULL,0,呪文の値が減少
+33593950,RND_BrainRotReduceSpellMagnitude75,DESC,0,
+33754079,RND_Campfire,FULL,0,焚き火
+33759596,RND_CampfireMenu0,ITXT:3,2219,何もしない
+33759596,RND_CampfireMenu0,ITXT:2,0,調理鍋を設置
+33759596,RND_CampfireMenu0,ITXT,0,薪をくべる
+33759596,RND_CampfireMenu0,DESC,0,この焚き火の火はあと %.0f 時間持ちそうだ
+33762356,RND_CampfireMenu1,ITXT:3,2219,何もしない
+33762356,RND_CampfireMenu1,ITXT:2,0,調理鍋を回収
+33762356,RND_CampfireMenu1,ITXT,0,薪をくべる
+33762356,RND_CampfireMenu1,DESC,0,この焚き火の火はあと %.0f 時間持ちそうだ
+33760976,RND_CampfireNeedsFirewood,DESC,0,火を起こすには薪が3個必要だ。
+33762357,RND_CampfireOff,DESC,0,薪を持っていれば、火を付け直すことができる。
+33743049,RND_CheckNeedsEffect,FULL,0,ステータス確認
+33743049,RND_CheckNeedsEffect,DNAM,0,現在のステータスを確認できる
+33743051,RND_CheckNeedsSpell,FULL,0,体調の確認
+33743051,RND_CheckNeedsSpell,DESC,0,
+33759597,RND_CookingPot,FULL,0,調理鍋
+33675463,RND_CureDiseaseEffect,FULL,0,疾病治療
+33675463,RND_CureDiseaseEffect,DNAM,0,
+33675461,RND_CureDiseaseSpell,DESC,0,
+33638207,RND_DirtyBedroll,FULL,0,汚れているベッドロール
+33638207,RND_DirtyBedroll,DNAM,0,
+33596719,RND_DiseaseAtaxia,FULL,72143,運動不全症
+33596719,RND_DiseaseAtaxia,DNAM,0,運動不全症は、筋力と器用さに影響を及ぼす軽度の病気。
+33621624,RND_DiseaseAtaxiaStage0,FULL,72143,運動不全症
+33621624,RND_DiseaseAtaxiaStage0,DESC,0,
+33593951,RND_DiseaseAtaxiaStage0Effect,FULL,72143,運動不全症
+33593951,RND_DiseaseAtaxiaStage0Effect,DNAM,0,開錠とスリの能力が<mag>%低下する。
+33596720,RND_DiseaseAtaxiaStage1,FULL,72143,運動不全症
+33596720,RND_DiseaseAtaxiaStage1,DESC,0,
+33621618,RND_DiseaseAtaxiaStage1Effect,FULL,72143,運動不全症
+33621618,RND_DiseaseAtaxiaStage1Effect,DNAM,0,隠密能力が<mag>%低下し、積載重量が<mag>減少する。
+33596724,RND_DiseaseAtaxiaStage2,FULL,72143,運動不全症
+33596724,RND_DiseaseAtaxiaStage2,DESC,0,
+33596726,RND_DiseaseAtaxiaStage2Effect,FULL,72143,運動不全症
+33596726,RND_DiseaseAtaxiaStage2Effect,DNAM,0,移動速度が<mag>%低下し、相手に与えるダメージが25%低下する。
+33596723,RND_DiseaseAtaxiaTrap,FULL,72143,運動不全症
+33596723,RND_DiseaseAtaxiaTrap,DNAM,0,運動不全症は、筋力と器用さに影響を及ぼす軽度の病気。
+33617448,RND_DiseaseBoneBreakFever,FULL,56762,骨折熱
+33617448,RND_DiseaseBoneBreakFever,DNAM,0,骨折熱は、筋力と耐久力に影響を及ぼす軽度の病気。
+33621626,RND_DiseaseBoneBreakFeverStage0,FULL,56762,骨折熱
+33621626,RND_DiseaseBoneBreakFeverStage0,DESC,0,
+33617447,RND_DiseaseBoneBreakFeverStage0Effect,FULL,56762,骨折熱
+33617447,RND_DiseaseBoneBreakFeverStage0Effect,DNAM,0,スタミナが<mag>ポイント低下する。
+33617443,RND_DiseaseBoneBreakFeverStage1,FULL,56762,骨折熱
+33617443,RND_DiseaseBoneBreakFeverStage1,DESC,0,
+33621619,RND_DiseaseBoneBreakFeverStage1Effect,FULL,56762,骨折熱
+33621619,RND_DiseaseBoneBreakFeverStage1Effect,DNAM,0,積載重量が<mag>減少する。
+33617445,RND_DiseaseBoneBreakFeverStage2,FULL,56762,骨折熱
+33617445,RND_DiseaseBoneBreakFeverStage2,DESC,0,
+33593952,RND_DiseaseBoneBreakFeverStage2Effect,FULL,56762,骨折熱
+33593952,RND_DiseaseBoneBreakFeverStage2Effect,DNAM,0,積載重量が-<mag>、移動速度が<mag>%低下、相手に与えるダメージが25%低下する
+33617449,RND_DiseaseBoneBreakFeverTrap,FULL,56762,骨折熱
+33617449,RND_DiseaseBoneBreakFeverTrap,DNAM,0,骨折熱は、筋力と耐久力に影響を及ぼす軽度の病気。
+33617450,RND_DiseaseBrainRot,FULL,72203,腐脳病
+33617450,RND_DiseaseBrainRot,DNAM,0,腐脳病は、精神と協調性に影響を及ぼす非常に危険な病気。
+33621628,RND_DiseaseBrainRotStage0,FULL,72203,腐脳病
+33621628,RND_DiseaseBrainRotStage0,DESC,0,
+33617452,RND_DiseaseBrainRotStage0Effect,FULL,72203,腐脳病
+33617452,RND_DiseaseBrainRotStage0Effect,DNAM,0,<mag>ポイントのマジカが奪われている。
+33617453,RND_DiseaseBrainRotStage1,FULL,72203,腐脳病
+33617453,RND_DiseaseBrainRotStage1,DESC,0,
+33621620,RND_DiseaseBrainRotStage1Effect,FULL,72203,腐脳病
+33621620,RND_DiseaseBrainRotStage1Effect,DNAM,0,話術が<mag>低下し、呪文効果が50%低下する。
+33617455,RND_DiseaseBrainRotStage2,FULL,72203,腐脳病
+33617455,RND_DiseaseBrainRotStage2,DESC,0,
+33593953,RND_DiseaseBrainRotStage2Effect,FULL,72203,腐脳病
+﻿33593953,RND_DiseaseBrainRotStage2Effect,DNAM,0,マジカが<mag>ポイント低下し、呪文の効果が75%低下する。
+33617451,RND_DiseaseBrainRotTrap,FULL,72203,腐脳病
+33617451,RND_DiseaseBrainRotTrap,DNAM,0,腐脳病は、精神と協調性に影響を及ぼす非常に危険な病気。
+33617440,RND_DiseaseRattles,FULL,19614,音害症
+33617440,RND_DiseaseRattles,DNAM,0,音害症は、精神と器用さに影響を与える病気。
+33621630,RND_DiseaseRattlesStage0,FULL,19614,音害症
+33621630,RND_DiseaseRattlesStage0,DESC,0,
+33617442,RND_DiseaseRattlesStage0Effect,FULL,19614,音害症
+33617442,RND_DiseaseRattlesStage0Effect,DNAM,0,スタミナの回復速度が<mag>ポイント低下する。
+33617436,RND_DiseaseRattlesStage1,FULL,19614,音害症
+33617436,RND_DiseaseRattlesStage1,DESC,0,
+33621621,RND_DiseaseRattlesStage1Effect,FULL,19614,音害症
+33621621,RND_DiseaseRattlesStage1Effect,DNAM,0,マジカの回復速度が<mag>ポイント低下する
+33617438,RND_DiseaseRattlesStage2,FULL,19614,音害症
+33617438,RND_DiseaseRattlesStage2,DESC,0,
+33593954,RND_DiseaseRattlesStage2Effect,FULL,19614,音害症
+33593954,RND_DiseaseRattlesStage2Effect,DNAM,0,スタミナとマジカの回復速度が<mag>低下。
+33617441,RND_DiseaseRattlesTrap,FULL,19614,音害症
+33617441,RND_DiseaseRattlesTrap,DNAM,0,音害症は、精神と器用さに影響を与える病気。
+33616044,RND_DiseaseRockjoint,FULL,72035,重関節症
+33616044,RND_DiseaseRockjoint,DNAM,0,重関節症は、手先の器用さに影響を与える深刻な病気。
+33621632,RND_DiseaseRockjointStage0,FULL,72035,重関節症
+33621632,RND_DiseaseRockjointStage0,DESC,0,
+33616045,RND_DiseaseRockJointStage0Effect,FULL,72035,重関節症
+33616045,RND_DiseaseRockJointStage0Effect,DNAM,0,近接武器のダメージが<mag>%低下する。
+33616046,RND_DiseaseRockjointStage1,FULL,72035,重関節症
+33616046,RND_DiseaseRockjointStage1,DESC,0,
+33621622,RND_DiseaseRockJointStage1Effect,FULL,72035,重関節症
+33621622,RND_DiseaseRockJointStage1Effect,DNAM,0,移動速度<mag>%低下し、隠密能力が<mag>%低下する。
+33616047,RND_DiseaseRockjointStage2,FULL,72035,重関節症
+33616047,RND_DiseaseRockjointStage2,DESC,0,
+33593955,RND_DiseaseRockJointStage2Effect,FULL,72035,重関節症
+33593955,RND_DiseaseRockJointStage2Effect,DNAM,0,スタミナが<mag>ポイント低下し、積載重量が<mag>低下する。
+33616043,RND_DiseaseRockjointTrap,FULL,72035,重関節症
+33616043,RND_DiseaseRockjointTrap,DNAM,0,重関節症は、手先の器用さに影響を与える深刻な病気。
+33616055,RND_DiseaseWitbane,FULL,72126,知減病
+33616055,RND_DiseaseWitbane,DNAM,0,知減病は、記憶能力と思考能力に影響を及ぼす深刻な病気。
+33621634,RND_DiseaseWitbaneStage0,FULL,72126,知減病
+33621634,RND_DiseaseWitbaneStage0,DESC,0,
+33616057,RND_DiseaseWitbaneStage0Effect,FULL,72126,知減病
+33616057,RND_DiseaseWitbaneStage0Effect,DNAM,0,マジカの回復速度が<mag>ポイント低下する。
+33616052,RND_DiseaseWitbaneStage1,FULL,72126,知減病
+33616052,RND_DiseaseWitbaneStage1,DESC,0,
+33621623,RND_DiseaseWitbaneStage1Effect,FULL,72126,知減病
+33621623,RND_DiseaseWitbaneStage1Effect,DNAM,0,マジカが<mag>ポイント低下し、スキル成長速度が25%低下する。
+33616050,RND_DiseaseWitbaneStage2,FULL,72126,知減病
+33616050,RND_DiseaseWitbaneStage2,DESC,0,
+33593956,RND_DiseaseWitbaneStage2Effect,FULL,72126,知減病
+33593956,RND_DiseaseWitbaneStage2Effect,DNAM,0,マジカが<mag>ポイント低下し、 スキルの成長速度が50%遅くなる。
+33616056,RND_DiseaseWitbaneTrap,FULL,72126,知減病
+33616056,RND_DiseaseWitbaneTrap,DNAM,0,知減病は、記憶能力と思考能力に影響を及ぼす深刻な病気。
+33570377,RND_DrinkAlcoholNormal,FULL,0,アルコール飲料
+33570377,RND_DrinkAlcoholNormal,DNAM,0,アルコール飲料。
+33570378,RND_DrinkAlcoholStrong,FULL,0,強いアルコール飲料
+33570378,RND_DrinkAlcoholStrong,DNAM,0,強いアルコール飲料。
+33567603,RND_DrinkAlcoholWeak,FULL,0,弱めのアルコール飲料
+33567603,RND_DrinkAlcoholWeak,DNAM,0,弱めのアルコール飲料。
+34061725,RND_DrinkFromWaterfall,FULL,0,水源から水を飲む
+34061725,RND_DrinkFromWaterfall,DNAM,0,
+33827164,RND_DrinkFromWaterSource,FULL,0,水を飲む
+33827164,RND_DrinkFromWaterSource,DESC,0,水源から直接水を飲む。
+33827166,RND_DrinkFromWaterSourceEffect,FULL,0,水源から水を飲む
+33827166,RND_DrinkFromWaterSourceEffect,DNAM,0,
+33618847,RND_DrinkWater,FULL,0,喉が潤う
+33618847,RND_DrinkWater,DNAM,0,喉が潤う。
+33580087,RND_DrinkWaterBottle01,FULL,0,ボトル[小]
+33580087,RND_DrinkWaterBottle01,DNAM,0,少し喉が潤う。
+33624399,RND_DrinkWaterBottle02,FULL,0,ボトル[中]
+33624399,RND_DrinkWaterBottle02,DNAM,0,喉が潤う。
+33624400,RND_DrinkWaterBottle03,FULL,0,ボトル[大]
+33624400,RND_DrinkWaterBottle03,DNAM,0,潤いをもたらしてくれる。
+33567604,RND_DrinkWaterFruit,FULL,0,水々しい果物
+33567604,RND_DrinkWaterFruit,DNAM,0,水々しい。
+33570381,RND_EatFoodCandy,FULL,0,甘いお菓子
+33570381,RND_EatFoodCandy,DNAM,0,甘いお菓子。
+33573144,RND_EatFoodFilling,FULL,0,お腹いっぱいになれそうだ
+33573144,RND_EatFoodFilling,DNAM,0,お腹いっぱいになれそうだ。
+33624397,RND_EatFoodFruit,FULL,0,新鮮な果物
+33624397,RND_EatFoodFruit,DNAM,0,新鮮な果物。
+33573145,RND_EatFoodMedium,FULL,0,食べるとお腹がふくれそうだ
+33573145,RND_EatFoodMedium,DNAM,0,食べるとお腹がふくれそうだ。
+33567605,RND_EatFoodSnack,FULL,0,少し空腹が満たされる
+33567605,RND_EatFoodSnack,DNAM,0,空腹を凌げそうだ。
+33571760,RND_EmptyBottle01,FULL,0,空のボトル[小]
+33571762,RND_EmptyBottle02,FULL,0,空のボトル[中]
+33571764,RND_EmptyBottle03,FULL,0,空のボトル[大]
+33577320,RND_FlagonWater,FULL,0,飲料水
+33649255,RND_FoodBeggarStew,FULL,0,乞食スープ
+33970619,RND_FoodBoiledEgg,FULL,0,ゆで卵
+33947179,RND_FoodCharredMeat,FULL,0,黒焦げの肉
+33807860,RND_FoodChickenSoup,FULL,0,鶏ガラスープ
+33647861,RND_FoodDogMeatStew,FULL,0,イヌのシチュー
+33647868,RND_FoodFishSoup,FULL,0,魚のスープ
+33577313,RND_FoodHerbalTea,FULL,0,ハーブティー
+33878234,RND_FoodHerbalTea01,FULL,0,ハーブティー
+33647858,RND_FoodLeekPotatoSoup,FULL,0,リーキとジャガイモのスープ
+33820271,RND_FoodMushroomSoup,FULL,0,きのこスープ
+33806480,RND_FoodPheasantStew,FULL,0,キジのシチュー
+33618850,RND_FoodPortionsBoiledWater02,FULL,0,数回に分けて飲むことができる
+33618850,RND_FoodPortionsBoiledWater02,DNAM,0,2杯分。
+33618845,RND_FoodPortionsBoiledWater03,FULL,0,数回に分けて飲むことができる
+33618845,RND_FoodPortionsBoiledWater03,DNAM,0,3杯分。
+33618846,RND_FoodPortionsBoiledWater03B,FULL,0,数回に分けて飲むことができる
+33618846,RND_FoodPortionsBoiledWater03B,DNAM,0,2杯分。
+33620234,RND_FoodPortionsBottledWater02,FULL,0,数回に分けて飲むことができる
+33620234,RND_FoodPortionsBottledWater02,DNAM,0,2杯分。
+33620235,RND_FoodPortionsBottledWater03,FULL,0,数回に分けて飲むことができる
+33620235,RND_FoodPortionsBottledWater03,DNAM,0,3杯分。
+33620236,RND_FoodPortionsBottledWater03B,FULL,0,数回に分けて飲むことができる
+33620236,RND_FoodPortionsBottledWater03B,DNAM,0,2杯分。
+33567606,RND_FoodPortionsBread01A,FULL,0,小分けして食べることができる
+33567606,RND_FoodPortionsBread01A,DNAM,0,2食分。
+33567607,RND_FoodPortionsCheeseWheel01A,FULL,0,小分けして食べることができる
+33567607,RND_FoodPortionsCheeseWheel01A,DNAM,0,6切れ分。
+33567608,RND_FoodPortionsCheeseWheel01B,FULL,0,小分けして食べることができる
+33567608,RND_FoodPortionsCheeseWheel01B,DNAM,0,5切れ分。
+33567609,RND_FoodPortionsCheeseWheel02A,FULL,0,小分けして食べることができる
+33567609,RND_FoodPortionsCheeseWheel02A,DNAM,0,8切れ分。
+33567610,RND_FoodPortionsCheeseWheel02B,FULL,0,小分けして食べることができる
+33567610,RND_FoodPortionsCheeseWheel02B,DNAM,0,7切れ分。
+33806478,RND_FoodRabbitStew,FULL,0,兎のシチュー
+33643721,RND_FoodSalmonChowder,FULL,0,サケのチャウダー
+34064486,RND_FoodSaltedMeat,FULL,0,塩漬け肉
+33581486,RND_FoodStaleApple,FULL,0,しなびた赤いリンゴ
+33587018,RND_FoodStaleBread01A,FULL,0,カビの生えたパン
+33587019,RND_FoodStaleBread01B,FULL,0,カビの生えたパンの切れはし
+33587022,RND_FoodStaleCabbage,FULL,0,しなびたキャベツ
+33587023,RND_FoodStaleCheeseWedge01,FULL,0,腐ったヤギのチーズの切れはし
+33587025,RND_FoodStaleCheeseWedge02,FULL,0,腐ったエイルダーチーズの切れはし
+33587034,RND_FoodStaleGoatMeatCooked,FULL,0,腐ったヤギの足のロースト
+33680982,RND_FoodStaleLeeksGrilled,FULL,0,古びたリーキのグリル
+33587039,RND_FoodStalePheasantCooked,FULL,0,腐ったキジのロースト
+33697531,RND_FoodStalePotato,FULL,0,古くなったジャガイモ
+33690638,RND_FoodStalePotatoesBaked,FULL,0,古びたベイクドポテト
+33587032,RND_FoodStaleRawMeatBeef,FULL,0,腐った牛の肉
+34010658,RND_FoodStaleRawMeatDog,FULL,0,腐ったイヌの肉
+34010664,RND_FoodStaleRawMeatGoat,FULL,0,腐ったヤギの足
+33587041,RND_FoodStaleRawMeatHorker,FULL,0,腐ったホーカーの肉
+34010666,RND_FoodStaleRawMeatHorse,FULL,0,腐った馬の肉
+34010668,RND_FoodStaleRawMeatMammoth,FULL,0,腐ったマンモスの鼻
+34010681,RND_FoodStaleRawMeatPheasant,FULL,0,腐ったキジの胸肉
+33587037,RND_FoodStaleRawMeatRabbit,FULL,0,腐った兎の足
+34010672,RND_FoodStaleRawMeatVenison,FULL,0,腐った鹿肉
+33587035,RND_FoodStaleSlaughterfishCooked,FULL,0,腐ったスローターフィッシュの焼き身
+33587027,RND_FoodStaleTomato,FULL,0,腐ったトマト
+33577315,RND_FortifySpeechcraft,FULL,68928,話術上昇
+33577315,RND_FortifySpeechcraft,DNAM,0,<dur>秒間、話術が<10>上昇する。
+33849244,RND_FPWaterskinBoiled00,FULL,0,数回に分けて飲むことができる
+33849244,RND_FPWaterskinBoiled00,DNAM,0,4杯分。
+33849245,RND_FPWaterskinBoiled01,FULL,0,数回に分けて飲むことができる
+33849245,RND_FPWaterskinBoiled01,DNAM,0,3杯分。
+33849246,RND_FPWaterskinBoiled02,FULL,0,数回に分けて飲むことができる
+33849246,RND_FPWaterskinBoiled02,DNAM,0,2杯分。
+33849229,RND_FPWaterskinRiver00,FULL,0,数回に分けて飲むことができる
+33849229,RND_FPWaterskinRiver00,DNAM,0,4杯分。
+33849232,RND_FPWaterskinRiver01,FULL,0,数回に分けて飲むことができる
+33849232,RND_FPWaterskinRiver01,DNAM,0,3杯分。
+33849231,RND_FPWaterskinRiver02,FULL,0,数回に分けて飲むことができる
+33849231,RND_FPWaterskinRiver02,DNAM,0,2杯分。
+33849257,RND_FPWaterskinSpring00,FULL,0,数回に分けて飲むことができる
+33849257,RND_FPWaterskinSpring00,DNAM,0,4杯分。
+33849259,RND_FPWaterskinSpring01,FULL,0,数回に分けて飲むことができる
+33849259,RND_FPWaterskinSpring01,DNAM,0,3杯分。
+33849260,RND_FPWaterskinSpring02,FULL,0,数回に分けて飲むことができる
+33849260,RND_FPWaterskinSpring02,DNAM,0,2杯分。
+33620237,RND_HerbalTea,FULL,0,[慰撫]
+33620237,RND_HerbalTea,DNAM,0,二日酔いによく効く。
+33557858,RND_HungerEffect00,FULL,0,[暴食]
+33557858,RND_HungerEffect00,DNAM,0,
+33559237,RND_HungerEffect01,FULL,0,[満腹]
+33559237,RND_HungerEffect01,DNAM,0,体力とスタミナの回復速度が<mag>%上昇する。
+33559238,RND_HungerEffect02,FULL,0,[小腹が空いている]
+33559238,RND_HungerEffect02,DNAM,0,
+33559239,RND_HungerEffect03,FULL,0,[お腹が空いた]
+33559239,RND_HungerEffect03,DNAM,0,体力とスタミナの回復速度が<mag>%低下する。
+33560628,RND_HungerEffect04,FULL,0,[空腹]
+33560628,RND_HungerEffect04,DNAM,0,体力とスタミナの回復速度が<mag>%低下する。
+33625783,RND_HungerEffect04B,FULL,0,[非常に空腹]
+33625783,RND_HungerEffect04B,DNAM,0,隠密能力が<mag>%低下し、相手に与えるダメージが25%低下する。
+33559240,RND_HungerEffect05,FULL,0,[餓死寸前]
+33559240,RND_HungerEffect05,DNAM,0,体力とスタミナの回復速度が<mag>%低下する。
+33625784,RND_HungerEffect05B,FULL,0,[餓死寸前]
+33625784,RND_HungerEffect05B,DNAM,0,積載重量が<mag>低下し、相手に与えるダメージが50%低下する。
+33575925,RND_HungerLevel00ConsumeMessage,DESC,0,少し食べ過ぎたようだ。
+34144452,RND_HungerLevel00ConsumeMessageB,DESC,0,食べ過ぎました。
+33566192,RND_HungerLevel00TimerMessage,DESC,0,
+34144459,RND_HungerLevel00TimerMessageB,DESC,0,
+33575926,RND_HungerLevel01ConsumeMessage,DESC,0,お腹がいっぱいだ。
+34144453,RND_HungerLevel01ConsumeMessageB,DESC,0,お腹がいっぱいになりました。
+33566193,RND_HungerLevel01TimerMessage,DESC,0,
+34144460,RND_HungerLevel01TimerMessageB,DESC,0,
+33575927,RND_HungerLevel02ConsumeMessage,DESC,0,もう少しだけ食べられそうだ。
+34144454,RND_HungerLevel02ConsumeMessageB,DESC,0,もう少しだけ食べられます。
+33566194,RND_HungerLevel02TimerMessage,DESC,0,小腹が空いてきた。
+34144461,RND_HungerLevel02TimerMessageB,DESC,0,少しお腹が空いています。
+33575928,RND_HungerLevel03ConsumeMessage,DESC,0,まだ満腹ではない。
+34144455,RND_HungerLevel03ConsumeMessageB,DESC,0,まだ満腹ではありません。
+33566195,RND_HungerLevel03TimerMessage,DESC,0,お腹が空いた。
+34144462,RND_HungerLevel03TimerMessageB,DESC,0,お腹が空いています。
+33575929,RND_HungerLevel04ConsumeMessage,DESC,0,まだ食べられそうだ。
+34144456,RND_HungerLevel04ConsumeMessageB,DESC,0,まだ食べられます。
+33566196,RND_HungerLevel04TimerMessage,DESC,0,何か食べられる物が必要だ。
+34144463,RND_HungerLevel04TimerMessageB,DESC,0,とてもお腹が空いています。
+33575930,RND_HungerLevel05ConsumeMessage,DESC,0,
+34144457,RND_HungerLevel05ConsumeMessageB,DESC,0,
+33566197,RND_HungerLevel05TimerMessage,DESC,0,このままでは飢え死にしてしまう！食べ物が必要だ！
+34144464,RND_HungerLevel05TimerMessageB,DESC,0,餓死寸前の状態です！
+33628545,RND_HungerReduceAttackDamage25,FULL,0,相手に与えるダメージが減少
+33628545,RND_HungerReduceAttackDamage25,DESC,0,
+33628546,RND_HungerReduceAttackDamage50,FULL,0,相手に与えるダメージが減少
+33628546,RND_HungerReduceAttackDamage50,DESC,0,
+33562007,RND_HungerSpell00,FULL,0,空腹
+33562007,RND_HungerSpell00,DESC,0,少し食べ過ぎてしまったようだ。移動速度 <-30>%
+33562009,RND_HungerSpell01,FULL,0,空腹
+33562009,RND_HungerSpell01,DESC,0,体力とスタミナの回復速度 <+10>%
+33562011,RND_HungerSpell02,FULL,0,空腹
+33562011,RND_HungerSpell02,DESC,0,小腹が空いた。
+33562013,RND_HungerSpell03,FULL,0,空腹
+33562013,RND_HungerSpell03,DESC,0,体力とスタミナの回復速度 <-30>%
+33563419,RND_HungerSpell04,FULL,0,空腹
+33563419,RND_HungerSpell04,DESC,0,体力とスタミナの回復速度 <-60>%、隠密能力 <-25>%、相手に与えるダメージ <-25>%
+33563420,RND_HungerSpell05,FULL,0,空腹
+33563420,RND_HungerSpell05,DESC,0,体力とスタミナの回復速度 <-90>%、積載重量 <-50> 、相手に与えるダメージ <-50>%
+34024479,RND_IncreaseThirst,FULL,0,喉が渇く
+34024479,RND_IncreaseThirst,DNAM,0,喉が渇きそうだ。
+33559241,RND_InebriationEffect00,FULL,0,[素面]
+33559241,RND_InebriationEffect00,DNAM,0,[素面]
+33559242,RND_InebriationEffect01,FULL,0,[ほろ酔い]
+33559242,RND_InebriationEffect01,DNAM,0,
+34118261,RND_InebriationEffect01B,FULL,0,[ほろ酔い]
+34118261,RND_InebriationEffect01B,DNAM,0,
+33559243,RND_InebriationEffect02,FULL,0,[酩酊]
+33559243,RND_InebriationEffect02,DNAM,0,
+34118263,RND_InebriationEffect02B,FULL,0,[酩酊]
+34118263,RND_InebriationEffect02B,DNAM,0,
+33573147,RND_InebriationEffect03,FULL,0,[泥酔]
+33573147,RND_InebriationEffect03,DNAM,0,
+33559244,RND_InebriationEffect04,FULL,0,[昏睡]
+33559244,RND_InebriationEffect04,DNAM,0,
+33663051,RND_InebriationPerk02,FULL,0,[酩酊]
+33663051,RND_InebriationPerk02,DESC,0,
+33623017,RND_InebriationPerk03,FULL,0,[泥酔]
+33623017,RND_InebriationPerk03,DESC,0,
+33562023,RND_InebriationSpell00,FULL,0,酔い
+33562023,RND_InebriationSpell00,DESC,0,私は素面だ。
+33562025,RND_InebriationSpell01,FULL,0,酔い
+33562025,RND_InebriationSpell01,DESC,0,良い気分だ。少し目眩がする。ダメージ耐性 <+10>%、素手ダメージ <+5> 。たまに意識を失う。
+33562027,RND_InebriationSpell02,FULL,0,酔い
+33562027,RND_InebriationSpell02,DESC,0,頭がクラクラする。素手ダメージ <+10> 、話術 <-15> 、マジカ回復速度 <-15>%、呪文の効果と持続時間 <-50>%、たまに意識を失う。
+33562029,RND_InebriationSpell03,FULL,0,酔い
+33562029,RND_InebriationSpell03,DESC,0,もう何がなんだかわからない...マジカとスタミナの回復速度 <-25>%、呪文の効果と持続時間 <-85>%、たまに意識を失う。
+33574526,RND_InebriationSpell04,FULL,0,酔い
+33574526,RND_InebriationSpell04,DESC,0,
+33664431,RND_InitMessage,DESC,0,Loading RND v1.9.5...
+34006512,RND_InitNeedsEffects,FULL,0,InitNeedsEffects
+34006512,RND_InitNeedsEffects,DNAM,0,
+34006513,RND_InitNeedsSpell,FULL,0,Init Needs
+34006513,RND_InitNeedsSpell,DESC,0,
+33818891,RND_InnWaterAllBottlesTopic,FULL,0,持っているボトルに水を補充して欲しい（<Global=RND_InnWaterCostAll> ゴールド）
+33614662,RND_InnWaterTopic,FULL,0,飲み水をもらえるか？（<Global=RND_InnWaterCost> ゴールド）
+33631309,RND_MainMenu,ITXT:5,45268,終了
+33631309,RND_MainMenu,ITXT:4,0,デバッグ＆テスト
+33631309,RND_MainMenu,ITXT:3,0,設定
+33631309,RND_MainMenu,ITXT:2,0,停止
+33631309,RND_MainMenu,ITXT,75386,開始
+33631309,RND_MainMenu,DESC,0,"Just another needs mod
+
+SkyUI v3 を使用しているのなら、シュガーボールはもう必要ありません。MOD設定メニュー(MCM)からこのMODを開始してください。"
+33994095,RND_Maintenance,FULL,0,Maintenance
+33994095,RND_Maintenance,DESC,0,
+33994091,RND_MaintenanceEffect,FULL,0,Maintenance
+33994091,RND_MaintenanceEffect,DNAM,0,
+33711331,RND_MarriageRested,FULL,0,[恋人の安息]
+33711331,RND_MarriageRested,DESC,0,全てのスキル成長速度が <15>%速くなる。
+33711337,RND_MarriageRestedMessage,DESC,69345,目が覚めて、恋人の癒しを感じた。
+33729262,RND_MenuAlcNormalConfig,ITXT:5,0,+10
+33729262,RND_MenuAlcNormalConfig,ITXT:4,0,+1
+33729262,RND_MenuAlcNormalConfig,ITXT:3,2362,戻る
+33729262,RND_MenuAlcNormalConfig,ITXT:2,0,-1
+33729262,RND_MenuAlcNormalConfig,ITXT,0,-10
+33729262,RND_MenuAlcNormalConfig,DESC,0,普通のお酒: %.0f
+33729259,RND_MenuAlcohol,ITXT:4,2362,戻る
+33729259,RND_MenuAlcohol,ITXT:3,0,強めのお酒
+33729259,RND_MenuAlcohol,ITXT:2,0,普通のお酒
+33729259,RND_MenuAlcohol,ITXT,0,弱めのお酒
+33729259,RND_MenuAlcohol,DESC,0,"アルコールの度合い
+=弱めのお酒: %.0f
+=普通のお酒: %.0f
+=強めのお酒: %.0f
+低い値は、あなたをお腹いっぱいのハチミツ酒でポカポカの幸せにします。"
+33729261,RND_MenuAlcStrongConfig,ITXT:5,0,+10
+33729261,RND_MenuAlcStrongConfig,ITXT:4,0,+1
+33729261,RND_MenuAlcStrongConfig,ITXT:3,2362,戻る
+33729261,RND_MenuAlcStrongConfig,ITXT:2,0,-1
+33729261,RND_MenuAlcStrongConfig,ITXT,0,-10
+33729261,RND_MenuAlcStrongConfig,DESC,0,強めのお酒: %.0f
+33729260,RND_MenuAlcWeakConfig,ITXT:5,0,+10
+33729260,RND_MenuAlcWeakConfig,ITXT:4,0,+1
+33729260,RND_MenuAlcWeakConfig,ITXT:3,2362,戻る
+33729260,RND_MenuAlcWeakConfig,ITXT:2,0,-1
+33729260,RND_MenuAlcWeakConfig,ITXT,0,-10
+33729260,RND_MenuAlcWeakConfig,DESC,0,弱めのお酒: %.0f
+33703057,RND_MenuAnimationToggle,ITXT:7,2362,戻る
+33703057,RND_MenuAnimationToggle,ITXT:6,0,ブラー視覚効果
+33703057,RND_MenuAnimationToggle,ITXT:5,42968,その他
+33703057,RND_MenuAnimationToggle,ITXT:4,0,酔い
+33703057,RND_MenuAnimationToggle,ITXT:3,0,水を汲む
+33703057,RND_MenuAnimationToggle,ITXT:2,0,飲む
+33703057,RND_MenuAnimationToggle,ITXT,0,食べる
+33703057,RND_MenuAnimationToggle,DESC,0,"アニメーション切り替え(1 = オン ; 0 = オフ)
+=食べる: %.0f
+=飲む: %.0f
+=水を汲む: %.0f
+=酔い: %.0f
+=その他: %.0f
+
+酩酊時の視覚効果: %.0f"
+33703052,RND_MenuBasicNeeds,ITXT:6,2362,戻る
+33703052,RND_MenuBasicNeeds,ITXT:5,0,リマインダ
+33703052,RND_MenuBasicNeeds,ITXT:4,72339,高速移動
+33703052,RND_MenuBasicNeeds,ITXT:3,0,疲労
+33703052,RND_MenuBasicNeeds,ITXT:2,0,渇き
+33703052,RND_MenuBasicNeeds,ITXT,0,空腹
+33703052,RND_MenuBasicNeeds,DESC,0,"基本設定
+=空腹の進行度 %.0f
+=渇きの進行度 %.0f
+=疲労の進行度 %.0f
+高い値は進行度が早くなることを意味します。
+
+高速移動時に疲労の進行度が %.0f%%  遅くなります。
+"
+33765114,RND_MenuCamping,ITXT:2,2362,戻る
+33765114,RND_MenuCamping,ITXT,0,キャンプセットを取得する
+33765114,RND_MenuCamping,DESC,0,テストのためにキャンプ道具一式を取得できます。
+33631311,RND_MenuConfiguration,ITXT:5,64287,メインメニュー
+33631311,RND_MenuConfiguration,ITXT:4,0,アニメーション
+33631311,RND_MenuConfiguration,ITXT:3,0,病気にかかる確率
+33631311,RND_MenuConfiguration,ITXT:2,0,基本設定
+33631311,RND_MenuConfiguration,ITXT,0,アルコールの度合い
+33631311,RND_MenuConfiguration,DESC,0,"<基本設定>
+=空腹の進行度 %.0f
+=渇きの進行度 %.0f
+=疲労の進行度 %.0f
+高い値ほど、進行度が速くなります。
+
+<病気にかかる確率>
+=生の食べ物: %.0f %%
+=腐敗した食べ物: %.0f %%
+=汚れたベッドロール: %.0f %%
+"
+33766496,RND_MenuDebug,ITXT:5,2362,戻る
+33766496,RND_MenuDebug,ITXT:4,0,キャンプセット
+33766496,RND_MenuDebug,ITXT:3,0,病気のテスト
+33766496,RND_MenuDebug,ITXT:2,0,デバッグモード - オフ
+33766496,RND_MenuDebug,ITXT,0,デバッグモード - オン
+33766496,RND_MenuDebug,DESC,0,Just another needs mod
+33703056,RND_MenuDisDirtyBedrollConfig,ITXT:5,0,+10
+33703056,RND_MenuDisDirtyBedrollConfig,ITXT:4,0,+1
+33703056,RND_MenuDisDirtyBedrollConfig,ITXT:3,2362,戻る
+33703056,RND_MenuDisDirtyBedrollConfig,ITXT:2,0,-1
+33703056,RND_MenuDisDirtyBedrollConfig,ITXT,0,-10
+33703056,RND_MenuDisDirtyBedrollConfig,DESC,0,汚れたベッドロールで寝た時 %.0f
+33631310,RND_MenuDisease,ITXT:7,64287,メインメニュー
+33631310,RND_MenuDisease,ITXT:6,72126,知減病
+33631310,RND_MenuDisease,ITXT:5,72035,重関節症
+33631310,RND_MenuDisease,ITXT:4,19614,音害症
+33631310,RND_MenuDisease,ITXT:3,72203,腐脳病
+33631310,RND_MenuDisease,ITXT:2,56762,骨折熱
+33631310,RND_MenuDisease,ITXT,72143,運動不全症
+33631310,RND_MenuDisease,DESC,0,"ここでは、自分自身に病気を追加しテストすることができます。
+各病気には、穏やかなものから厄介なものまで、3段階に分かれています。"
+33703053,RND_MenuDiseaseChance,ITXT:4,2362,戻る
+33703053,RND_MenuDiseaseChance,ITXT:3,0,睡眠
+33703053,RND_MenuDiseaseChance,ITXT:2,0,腐った食べ物
+33703053,RND_MenuDiseaseChance,ITXT,0,生の食べ物
+33703053,RND_MenuDiseaseChance,DESC,0,"病気になる確率
+=生の食べ物: %.0f %%
+=腐った食べ物: %.0f %%
+=汚れたベッドロール: %.0f %%
+"
+33703054,RND_MenuDisRawFoodConfig,ITXT:5,0,+10
+33703054,RND_MenuDisRawFoodConfig,ITXT:4,0,+1
+33703054,RND_MenuDisRawFoodConfig,ITXT:3,2362,戻る
+33703054,RND_MenuDisRawFoodConfig,ITXT:2,0,-1
+33703054,RND_MenuDisRawFoodConfig,ITXT,0,-10
+33703054,RND_MenuDisRawFoodConfig,DESC,0,生の食べ物を食べた時 %.0f
+33703055,RND_MenuDisStaleFoodConfig,ITXT:5,0,+10
+33703055,RND_MenuDisStaleFoodConfig,ITXT:4,0,+1
+33703055,RND_MenuDisStaleFoodConfig,ITXT:3,2362,戻る
+33703055,RND_MenuDisStaleFoodConfig,ITXT:2,0,-1
+33703055,RND_MenuDisStaleFoodConfig,ITXT,0,-10
+33703055,RND_MenuDisStaleFoodConfig,DESC,0,腐敗した食べ物を食べた時 %.0f
+33567616,RND_MenuEffect,FULL,0,シュガーボール
+33567616,RND_MenuEffect,DNAM,0,甘い甘いシュガーボール。とても美味しい！
+33849276,RND_MenuFastTravelSlowRateConfig,ITXT:5,0,+10
+33849276,RND_MenuFastTravelSlowRateConfig,ITXT:4,0,+1
+33849276,RND_MenuFastTravelSlowRateConfig,ITXT:3,2362,戻る
+33849276,RND_MenuFastTravelSlowRateConfig,ITXT:2,0,-1
+33849276,RND_MenuFastTravelSlowRateConfig,ITXT,0,-10
+33849276,RND_MenuFastTravelSlowRateConfig,DESC,0,高速移動時の疲労進行度が %.0f%% 遅くなります。
+33634070,RND_MenuHungerConfig,ITXT:5,0,まずは満腹に -オフ
+33634070,RND_MenuHungerConfig,ITXT:4,0,まずは満腹に -オン
+33634070,RND_MenuHungerConfig,ITXT:3,0,+1
+33634070,RND_MenuHungerConfig,ITXT:2,2362,戻る
+33634070,RND_MenuHungerConfig,ITXT,0,-1
+33634070,RND_MenuHungerConfig,DESC,0,空腹の進行度 %.0f
+33871342,RND_MenuReminder0,ITXT:2,2362,戻る
+33871342,RND_MenuReminder0,ITXT,0,有効
+33871342,RND_MenuReminder0,DESC,0,"自動通知機能は現在無効になっています。
+有効にした場合、あなたが空腹、疲労、のどの渇きを感じた時にステータスメッセージを表示したり、通知音が一定間隔で再生されます。"
+33871343,RND_MenuReminder1,ITXT:9,2362,戻る
+33871343,RND_MenuReminder1,ITXT:8,0,無効
+33871343,RND_MenuReminder1,ITXT:7,0,+3
+33871343,RND_MenuReminder1,ITXT:6,0,間隔
+33871343,RND_MenuReminder1,ITXT:5,0,-3
+33871343,RND_MenuReminder1,ITXT:4,0,メッセージ -オフ
+33871343,RND_MenuReminder1,ITXT:3,0,メッセージ -オン
+33871343,RND_MenuReminder1,ITXT:2,0,サウンド -オフ
+33871343,RND_MenuReminder1,ITXT,0,サウンド -オン
+33871343,RND_MenuReminder1,DESC,0,通知間隔: %.0f 分
+33634072,RND_MenuSleepConfig,ITXT:3,0,+1
+33634072,RND_MenuSleepConfig,ITXT:2,2362,戻る
+33634072,RND_MenuSleepConfig,ITXT,0,-1
+33634072,RND_MenuSleepConfig,DESC,0,疲労の進行度 %.0f
+33634071,RND_MenuThirstConfig,ITXT:5,0,渇きによる死 -オフ
+33634071,RND_MenuThirstConfig,ITXT:4,0,渇きによる死 -オン
+33634071,RND_MenuThirstConfig,ITXT:3,0,+1
+33634071,RND_MenuThirstConfig,ITXT:2,2362,戻る
+33634071,RND_MenuThirstConfig,ITXT,0,-1
+33634071,RND_MenuThirstConfig,DESC,0,渇きの進行度 %.0f
+33800964,RND_Milk,FULL,0,ミルク
+33811999,RND_MilkDrinker,FULL,0,ミルク飲みの努力
+33811999,RND_MilkDrinker,DNAM,0,<dur>秒間、体力が<mag>上昇する。.
+34116882,RND_MilkingPerk,FULL,0,RND Milking Perk
+34116882,RND_MilkingPerk,DESC,0,
+34079664,RND_Mold,FULL,0,カビ
+33743050,RND_NeedsMessageDebug,DESC,0,"現在のステータス: 空腹 %.0f; 渇き %.0f; 疲労 %.0f, 酔い %.0f"
+33650637,RND_PortableBedroll,FULL,64874,ベッドロール
+33755460,RND_PortableTent,FULL,0,テント
+33631313,RND_QuitMessage,ITXT:2,1624,いいえ
+33631313,RND_QuitMessage,ITXT,1234,はい
+33631313,RND_QuitMessage,DESC,0,"OK, I'll just leave you alone.
+
+このMODをアンインストールする前に、全ての病気を治療する必要があります。今すぐ治療しますか？"
+33567611,RND_RawFood,FULL,0,生の食べ物
+33567611,RND_RawFood,DNAM,0,料理されていない。
+33567617,RND_RefillWaterBottle01,FULL,0,Refill Empty Bottle 01
+33567617,RND_RefillWaterBottle01,DNAM,0,川で水を補充できる。
+34060344,RND_RefillWaterBottle01NoWater,FULL,0,Refill Empty Bottle 01B
+34060344,RND_RefillWaterBottle01NoWater,DNAM,0,
+33575908,RND_RefillWaterBottle02,FULL,0,Refill Empty Bottle 02
+33575908,RND_RefillWaterBottle02,DNAM,0,川で水を補充できる。
+34056209,RND_RefillWaterBottle02NoWater,FULL,0,Refill Empty Bottle 02B
+34056209,RND_RefillWaterBottle02NoWater,DNAM,0,
+33575915,RND_RefillWaterBottle03,FULL,0,Refill Empty Bottle 03
+33575915,RND_RefillWaterBottle03,DNAM,0,川で水を補充できる。
+34060345,RND_RefillWaterBottle03NoWater,FULL,0,Refill Empty Bottle 03B
+34060345,RND_RefillWaterBottle03NoWater,DNAM,0,
+33849233,RND_RefillWaterskin,FULL,0,Refill Empty Waterskin
+33849233,RND_RefillWaterskin,DNAM,0,水辺で水筒に水を補充できる。
+34060346,RND_RefillWaterskinNoWater,FULL,0,Refill Empty Waterskin B
+34060346,RND_RefillWaterskinNoWater,DNAM,0,
+34006509,RND_RemoveAllNeedsEffects,FULL,0,RemoveAllNeedsEffects
+34006509,RND_RemoveAllNeedsEffects,DNAM,0,
+34006510,RND_RemoveNeedsSpell,FULL,0,Remove All Needs
+34006510,RND_RemoveNeedsSpell,DESC,0,
+33711333,RND_Rested,FULL,0,休養
+33711333,RND_Rested,DESC,0,全てのスキル成長速度が <5>%速くなる。
+33714096,RND_RestedMarriageSkillEffect,FULL,0,[恋人の安息]
+33714096,RND_RestedMarriageSkillEffect,DNAM,0,
+33711335,RND_RestedMessage,DESC,69523,目が覚めて、休息を感じた。
+33714098,RND_RestedSkillEffect,FULL,0,[休息]
+33714098,RND_RestedSkillEffect,DNAM,0,
+33714099,RND_RestedWellSkillEffect,FULL,0,[十分な休息]
+33714099,RND_RestedWellSkillEffect,DNAM,0,
+33732021,RND_RestedWerewolf,FULL,0,野獣の血によって安眠が妨げられている
+33732021,RND_RestedWerewolf,DNAM,0,疲れ知らずだ。
+33732022,RND_RestlessBeast,FULL,0,睡眠
+33732022,RND_RestlessBeast,DESC,0,私は疲れを知らない。
+34085183,RND_RestoreHealthDuration,FULL,0,Restore Health
+34085183,RND_RestoreHealthDuration,DNAM,74417,体力を1秒ごとに <mag> ポイント、 <dur> 秒間回復させる。
+34152748,RND_RestoreMagickaDuration,FULL,74750,マジカ回復
+34152748,RND_RestoreMagickaDuration,DNAM,0,<dur>秒間、1秒毎にマジカが<mag>増加する。
+34085182,RND_RestoreStaminaDuration,FULL,0,Restore Stamina
+34085182,RND_RestoreStaminaDuration,DNAM,0,<dur>秒間、1秒毎にスタミナが<mag>増加する。
+33567620,RND_ReturnEmptyBottle01,FULL,0,Return Empty Bottle
+33567620,RND_ReturnEmptyBottle01,DNAM,0,
+33574528,RND_ReturnEmptyBottle02,FULL,0,Return Empty Bottle
+33574528,RND_ReturnEmptyBottle02,DNAM,0,
+33574529,RND_ReturnEmptyBottle03,FULL,0,Return Empty Bottle
+33574529,RND_ReturnEmptyBottle03,DNAM,0,
+33849234,RND_ReturnEmptyWaterskin,FULL,0,Return Empty Waterskin
+33849234,RND_ReturnEmptyWaterskin,DNAM,0,
+34018959,RND_RiverWater,FULL,0,川の水
+34018959,RND_RiverWater,DNAM,0,川の水。
+34010674,RND_RottenFlesh,FULL,0,腐肉
+34064488,RND_SaltedMeat,FULL,0,塩漬け肉
+34064488,RND_SaltedMeat,DNAM,0,保存加工をした肉、とても塩辛い。
+33983026,RND_SaltToken01,FULL,56467,塩
+33983027,RND_SaltToken02,FULL,56467,塩
+33983028,RND_SaltToken03,FULL,56467,塩
+33988545,RND_SaltTokenSkin01,FULL,56467,塩
+33965098,RND_Seawater,FULL,0,海水
+33965098,RND_Seawater,DNAM,0,海の水、とても塩辛い！
+33927868,RND_Seawater01,FULL,0,海水
+33927870,RND_Seawater02,FULL,0,海水
+33927872,RND_Seawater03,FULL,0,海水
+33969233,RND_SeawaterMessage,DESC,0,この水はなんて塩辛いんだ！
+33683745,RND_SkoomaDamageMagicka,FULL,11426,スクゥーマ
+33683745,RND_SkoomaDamageMagicka,DNAM,0,<dur>秒間、1秒毎にマジカが<mag>減少する。
+33683744,RND_SkoomaDamageStamina,FULL,11426,スクゥーマ
+33683744,RND_SkoomaDamageStamina,DNAM,0,<dur>秒間、1秒毎にスタミナが<mag>減少する。
+33668566,RND_SkoomaEffect,FULL,11426,スクゥーマ
+33668566,RND_SkoomaEffect,DNAM,0,<dur>秒間、移動速度が<mag>%上昇、積載重量が<mag>増加する。
+33592565,RND_Sleep01SkillUse75,FULL,0,[疲労]
+33592565,RND_Sleep01SkillUse75,DESC,0,
+33592566,RND_Sleep02SkillUse50,FULL,0,非常に疲れた
+33592566,RND_Sleep02SkillUse50,DESC,0,
+33592567,RND_Sleep03SkillUse25,FULL,0,疲れ果てた
+33592567,RND_Sleep03SkillUse25,DESC,0,
+33638208,RND_SleepDisease,FULL,0,汚れているベッドロール
+33638208,RND_SleepDisease,DESC,0,
+33714097,RND_SleepEffect00,FULL,0,[休息]
+33714097,RND_SleepEffect00,DNAM,0,休息を感じる。
+33567612,RND_SleepEffect01,FULL,0,[わずかに疲労を感じる]
+33567612,RND_SleepEffect01,DNAM,0,
+33567613,RND_SleepEffect02,FULL,0,[疲労を感じる]
+33567613,RND_SleepEffect02,DNAM,0,積載重量が<mag>減少し、スキル成長速度が25%低下する。
+33567614,RND_SleepEffect03,FULL,0,[体が重い]
+33567614,RND_SleepEffect03,DNAM,0,積載重量が<mag>減少し、スキル成長速度が50%低下する。
+33685124,RND_SleepEffect03B,FULL,0,[睡眠が必要]
+33685124,RND_SleepEffect03B,DNAM,0,移動速度が<mag>%減少。
+33567615,RND_SleepEffect04,FULL,0,[疲労困憊]
+33567615,RND_SleepEffect04,DNAM,0,積載重量が<mag>減少し、スキル成長速度が75%低下する。
+33685125,RND_SleepEffect04B,FULL,0,[疲労困憊]
+33685125,RND_SleepEffect04B,DNAM,0,移動速度が<mag>%減少。
+33778900,RND_SleepingCot,FULL,0,簡易ベッド
+33732020,RND_SleepLevel00TimerMessage,DESC,0,
+34147231,RND_SleepLevel00TimerMessageB,DESC,0,
+33602252,RND_SleepLevel01TimerMessage,DESC,0,昼寝にはちょうどいい疲労感だ。
+34147232,RND_SleepLevel01TimerMessageB,DESC,0,少し疲れを感じています。
+33602249,RND_SleepLevel02TimerMessage,DESC,0,疲れを感じる。
+34147233,RND_SleepLevel02TimerMessageB,DESC,0,疲れを感じています。
+33602250,RND_SleepLevel03TimerMessage,DESC,0,今すぐ休める場所を見つけなくては。
+34147234,RND_SleepLevel03TimerMessageB,DESC,0,とても疲れています。
+33602251,RND_SleepLevel04TimerMessage,DESC,0,足元から落ちていくような感じがする...
+34147235,RND_SleepLevel04TimerMessageB,DESC,0,疲労が限界に達しています！
+33602253,RND_SleepSpell00,FULL,0,休養
+33602253,RND_SleepSpell00,DESC,0,今は疲れを感じない。
+33563422,RND_SleepSpell01,FULL,0,睡眠
+33563422,RND_SleepSpell01,DESC,0,少し休みたい。
+33563424,RND_SleepSpell02,FULL,0,睡眠
+33563424,RND_SleepSpell02,DESC,0,積載重量 <-30> 、スキル成長速度 <-25>%
+33562035,RND_SleepSpell03,FULL,0,睡眠
+33562035,RND_SleepSpell03,DESC,0,積載重量 <-60> 、スキルの成長速度 <-50>%、移動速度 <-20>%
+33562037,RND_SleepSpell04,FULL,0,睡眠
+33562037,RND_SleepSpell04,DESC,0,積載重量 <-90> 、スキルの成長速度 <-75>%、移動速度 <-30>%
+34031389,RND_SpoiledJunk,FULL,0,古びた食べ物
+34079659,RND_SpoiledJunkB,FULL,0,古びた食べ物
+34079661,RND_SpoiledJunkEffect,FULL,0,古びた食べ物
+34079661,RND_SpoiledJunkEffect,DNAM,0,カビが手に入る。
+34079662,RND_SpoiledJunkEffectB,FULL,0,古びた食べ物
+34079662,RND_SpoiledJunkEffectB,DNAM,0,腐肉が手に入る。
+33849262,RND_SpringWater01,FULL,0,湧き水
+33849264,RND_SpringWater02,FULL,0,湧き水
+33849270,RND_SpringWater03,FULL,0,湧き水
+33587046,RND_StaleFood,FULL,0,古くなった食べ物
+33587046,RND_StaleFood,DNAM,0,古くなった食べ物。
+33577310,RND_StaleFoodCough,FULL,0,咳払い
+33577310,RND_StaleFoodCough,DNAM,0,
+33680987,RND_StaleFoodDisgusting,FULL,0,[吐き気]
+33680987,RND_StaleFoodDisgusting,DNAM,0,このまま食べるのは気が進まない。
+33920964,RND_Stumble,FULL,0,Stumble
+33920964,RND_Stumble,DNAM,0,
+33920965,RND_StumbleSpell,FULL,0,Stumble Spell
+33920965,RND_StumbleSpell,DESC,0,
+33631305,RND_SugarBall,FULL,0,シュガーボール
+33754081,RND_Tent,FULL,0,テント
+33559245,RND_ThirstEffect00,FULL,0,[潤っている]
+33559245,RND_ThirstEffect00,DNAM,0,マジカとスタミナの回復速度+<mag>%
+33559246,RND_ThirstEffect01,FULL,0,[少し喉が渇いている]
+33559246,RND_ThirstEffect01,DNAM,0,
+33559247,RND_ThirstEffect02,FULL,0,[喉がカラカラだ]
+33559247,RND_ThirstEffect02,DNAM,0,マジカとスタミナの回復速度が<mag>%低下する。
+33566200,RND_ThirstEffect03,FULL,0,[とても喉が渇いている]
+33566200,RND_ThirstEffect03,DNAM,0,マジカとスタミナの回復速度が<mag>%低下する。
+33627163,RND_ThirstEffect03B,FULL,0,[非常に喉が渇いた]
+33627163,RND_ThirstEffect03B,DNAM,0,シャウトのクールタイムが<mag>%.増加し、呪文の効果が25%低下する。
+33559248,RND_ThirstEffect04,FULL,0,[脱水症状]
+33559248,RND_ThirstEffect04,DNAM,0,マジカとスタミナの回復速度が<mag>%低下する。
+33627164,RND_ThirstEffect04B,FULL,0,[脱水症状]
+33627164,RND_ThirstEffect04B,DNAM,0,シャウトのクールタイムが<mag>%増加し、呪文の効果が50%低下する。
+33578700,RND_ThirstLevel00ConsumeMessage,DESC,0,喉の渇きがおさまった。
+34147223,RND_ThirstLevel00ConsumeMessageB,DESC,0,喉の渇きはおさまりました。
+33566208,RND_ThirstLevel00TimerMessage,DESC,0,
+34147226,RND_ThirstLevel00TimerMessageB,DESC,0,
+33578701,RND_ThirstLevel01ConsumeMessage,DESC,0,もう少し飲めそうだ。
+34147224,RND_ThirstLevel01ConsumeMessageB,DESC,0,もう少し飲めます。
+33566209,RND_ThirstLevel01TimerMessage,DESC,0,少し喉が渇いた。
+34147227,RND_ThirstLevel01TimerMessageB,DESC,0,少し喉が渇いています。
+33578702,RND_ThirstLevel02ConsumeMessage,DESC,0,もっと水が必要だ。
+34147225,RND_ThirstLevel02ConsumeMessageB,DESC,0,もっと水が必要です。
+33566210,RND_ThirstLevel02TimerMessage,DESC,0,喉が渇いた。
+34147228,RND_ThirstLevel02TimerMessageB,DESC,0,喉が渇いています。
+33578703,RND_ThirstLevel03ConsumeMessage,DESC,0,もっと水が必要だ。
+34147222,RND_ThirstLevel03ConsumeMessageB,DESC,0,もっと水が必要です。
+33566211,RND_ThirstLevel03TimerMessage,DESC,0,とても喉が渇いた。
+34147229,RND_ThirstLevel03TimerMessageB,DESC,0,とても喉が渇いています。
+33578704,RND_ThirstLevel04ConsumeMessage,DESC,0,
+34147221,RND_ThirstLevel04ConsumeMessageB,DESC,0,
+33566212,RND_ThirstLevel04TimerMessage,DESC,0,脱水症状で死んでしまいそうだ。飲み水を確保しなくては。
+34147230,RND_ThirstLevel04TimerMessageB,DESC,0,脱水症状に陥りました！
+33627165,RND_ThirstReduceSpellMagnitude25,FULL,0,呪文の値が減少
+33627165,RND_ThirstReduceSpellMagnitude25,DESC,0,
+33627166,RND_ThirstReduceSpellMagnitude50,FULL,0,呪文の値が減少
+33627166,RND_ThirstReduceSpellMagnitude50,DESC,0,
+33562017,RND_ThirstSpell00,FULL,0,渇き
+33562017,RND_ThirstSpell00,DESC,0,マジカとスタミナの回復速度 <+10>%
+33562019,RND_ThirstSpell01,FULL,0,渇き
+33562019,RND_ThirstSpell01,DESC,0,少しだけ喉が渇いた。
+33562021,RND_ThirstSpell02,FULL,0,渇き
+33562021,RND_ThirstSpell02,DESC,0,マジカとスタミナの回復速度 <-30>%
+33566202,RND_ThirstSpell03,FULL,0,渇き
+33566202,RND_ThirstSpell03,DESC,0,マジカとスタミナの回復速度が <-60>%、シャウトのクールタイム <+25>%、呪文の効果 <-25>%
+33566204,RND_ThirstSpell04,FULL,0,渇き
+33566204,RND_ThirstSpell04,DESC,0,マジカとスタミナの回復速度 <-90>%、シャウトのクールタイム <+50>%、呪文の効果 <-50>%
+33752700,RND_Tinderbox,FULL,0,火口箱
+34081044,RND_UnarmedDamage,FULL,72547,素手ダメージ上昇
+34081044,RND_UnarmedDamage,DNAM,0,
+33849236,RND_WaterskinBoiled00,FULL,0,水筒(きれいな水): 満杯
+33849238,RND_WaterskinBoiled01,FULL,0,水筒(きれいな水): 3/4
+33849242,RND_WaterskinBoiled02,FULL,0,水筒(きれいな水): 2/4
+33849240,RND_WaterskinBoiled03,FULL,0,水筒(きれいな水): 1/4
+33842327,RND_WaterskinEmpty,FULL,0,水筒
+33835435,RND_WaterskinRiver00,FULL,0,水筒(川の水): 満杯
+33849224,RND_WaterskinRiver01,FULL,0,水筒(川の水): 3/4
+33849225,RND_WaterskinRiver02,FULL,0,水筒(川の水): 2/4
+33849227,RND_WaterskinRiver03,FULL,0,水筒(川の水): 1/4
+33988542,RND_WaterskinSeawater,FULL,0,水筒(海水)
+33849250,RND_WaterskinSpring00,FULL,0,水筒(湧き水): 満杯
+33849252,RND_WaterskinSpring01,FULL,0,水筒(湧き水): 3/4
+33849253,RND_WaterskinSpring02,FULL,0,水筒(湧き水): 2/4
+33849255,RND_WaterskinSpring03,FULL,0,水筒(湧き水): 1/4
+33995476,RND_WaterToken01,FULL,0,飲料水
+33995477,RND_WaterToken02,FULL,0,飲料水
+33995478,RND_WaterToken03,FULL,0,飲料水 (2)
+33995479,RND_WaterTokenSkin01,FULL,0,飲料水 (3)
+33711329,RND_WellRested,FULL,0,[十分な休息]
+33711329,RND_WellRested,DESC,0,全てのスキル成長速度が <10>%速くなる。
+33711336,RND_WellRestedMessage,DESC,0,目が覚めて、十分な休息を感じた。
+33703059,RND_WerewolfFeed,FULL,67105,ウェアウルフの吸血
+33703059,RND_WerewolfFeed,DNAM,0,食事を充填
+33593948,RND_WitbaneSkillUse50,FULL,0,スキル使用の減少
+33593948,RND_WitbaneSkillUse50,DESC,0,
+33663052,RND_WitbaneSkillUse75,FULL,0,Reduce Skill Use
+33663052,RND_WitbaneSkillUse75,DESC,0,
+33994097,RNDConfigQuest,FULL,0,RNDConfigQuest
+33994090,RNDMaintenanceQuest,FULL,0,RNDMaintenanceQuest
+33868572,RNDReminderQuest,FULL,0,RNDReminderQuest
+34034147,RNDSpoilageQuest,FULL,0,RNDSpoilageQuest
+33614659,RNDTrackingQuest,FULL,0,RNDTrackingQuest
+359034,Skooma,FULL,11426,スクゥーマ
+901490,TGTQ02BalmoraBlue,FULL,60063,バルモラ・ブルー
+1090122,TrapDiseaseAtaxia,FULL,72143,運動不全症
+1090122,TrapDiseaseAtaxia,DESC,0,
+1090124,TrapDiseaseBoneBreakFever,FULL,56762,骨折熱
+1090124,TrapDiseaseBoneBreakFever,DESC,0,
+1090125,TrapDiseaseBrainRot,FULL,72203,腐脳病
+1090125,TrapDiseaseBrainRot,DESC,0,
+1090126,TrapDiseaseRattles,FULL,19614,音害症
+1090126,TrapDiseaseRattles,DESC,66728,スタミナの回復速度が半分になる。
+1090127,TrapDiseaseRockjoint,FULL,72035,重関節症
+1090127,TrapDiseaseRockjoint,DESC,0,
+1090128,TrapDiseaseWitbane,FULL,72126,知減病
+1090128,TrapDiseaseWitbane,DESC,66658,マジカの回復速度が半分になる。
+758231,WEDL03CyrodilicBrandy,FULL,49322,シロディールブランデー
+1038350,WellRestedMessage,DESC,0,
+967511,WerewolfFeed,FULL,67105,ウェアウルフの吸血
+967511,WerewolfFeed,DESC,0,
+259261,WindhelmDoubleDistilledSkooma,FULL,63533,再蒸留したスクゥーマ
