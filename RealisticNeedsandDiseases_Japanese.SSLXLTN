@@ -17,11 +17,11 @@
 755583,DiseaseBrainRot,FULL,72203,腐脳病
 755583,DiseaseBrainRot,DESC,0,
 755585,DiseaseRattles,FULL,19614,音害症
-755585,DiseaseRattles,DESC,66728,スタミナの回復速度が半分になる。
+755585,DiseaseRattles,DESC,66728,
 755586,DiseaseRockjoint,FULL,72035,重関節症
 755586,DiseaseRockjoint,DESC,0,
 755587,DiseaseWitbane,FULL,72126,知減病
-755587,DiseaseWitbane,DESC,66658,マジカの回復速度が半分になる。
+755587,DiseaseWitbane,DESC,66658,
 830971,FavorFoodMarkarthSpicedBeef,FULL,22404,スパイスを振った牛肉
 853342,FavorSorexRum,FULL,29844,[飲料：酒]ストロス・エムカイ・ラム
 100703,FirebrandWine,FULL,29011,[飲料：酒]ファイアブランド・ワイン
@@ -904,11 +904,11 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 1090125,TrapDiseaseBrainRot,FULL,72203,腐脳病
 1090125,TrapDiseaseBrainRot,DESC,0,
 1090126,TrapDiseaseRattles,FULL,19614,音害症
-1090126,TrapDiseaseRattles,DESC,66728,スタミナの回復速度が半分になる。
+1090126,TrapDiseaseRattles,DESC,0,
 1090127,TrapDiseaseRockjoint,FULL,72035,重関節症
 1090127,TrapDiseaseRockjoint,DESC,0,
 1090128,TrapDiseaseWitbane,FULL,72126,知減病
-1090128,TrapDiseaseWitbane,DESC,66658,マジカの回復速度が半分になる。
+1090128,TrapDiseaseWitbane,DESC,0,
 758231,WEDL03CyrodilicBrandy,FULL,49322,[飲料：酒]シロディールブランデー
 1038350,WellRestedMessage,DESC,0,
 967511,WerewolfFeed,FULL,67105,ウェアウルフの吸血
