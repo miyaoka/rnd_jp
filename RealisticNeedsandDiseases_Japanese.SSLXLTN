@@ -713,11 +713,11 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 33732021,RND_RestedWerewolf,DNAM,0,疲れ知らずだ。
 33732022,RND_RestlessBeast,FULL,0,睡眠
 33732022,RND_RestlessBeast,DESC,0,私は疲れを知らない。
-34085183,RND_RestoreHealthDuration,FULL,0,Restore Health
+34085183,RND_RestoreHealthDuration,FULL,0,体力回復
 34085183,RND_RestoreHealthDuration,DNAM,74417,体力を1秒ごとに <mag> ポイント、 <dur> 秒間回復させる。
 34152748,RND_RestoreMagickaDuration,FULL,74750,マジカ回復
 34152748,RND_RestoreMagickaDuration,DNAM,0,<dur>秒間、1秒毎にマジカが<mag>増加する。
-34085182,RND_RestoreStaminaDuration,FULL,0,Restore Stamina
+34085182,RND_RestoreStaminaDuration,FULL,0,スタミナ回復
 34085182,RND_RestoreStaminaDuration,DNAM,0,<dur>秒間、1秒毎にスタミナが<mag>増加する。
 33567620,RND_ReturnEmptyBottle01,FULL,0,Return Empty Bottle
 33567620,RND_ReturnEmptyBottle01,DNAM,0,
