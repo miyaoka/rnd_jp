@@ -119,15 +119,15 @@
 622444,MiscSackLargeFlat01,FULL,74788,大きな袋
 622446,MiscSackLargeFlat02,FULL,74788,大きな袋
 622448,MiscSackLargeFlat03,FULL,74788,大きな袋
-33614663,N/A,NAM1,0,.
-33675464,N/A,NAM1,0,.
-33675465,N/A,NAM1,0,.
-33675466,N/A,NAM1,0,.
-33818892,N/A,NAM1,0,.
-33863058,N/A,NAM1,0,.
 1079946,MQ101JuniperMead,FULL,71431,[飲料:酒]ジュニパーベリー入りのハチミツ酒
 224595,MQ201Drink,FULL,14158,[飲料:酒]コロヴィアン・ブランデー
 992638,MS14WineAltoA,FULL,67311,[飲料:酒]ジェシカのワイン
+33614663,N/A,NAM1,0,はい、どうぞ
+33675464,N/A,NAM1,0,はい、どうぞ
+33675465,N/A,NAM1,0,はい、どうぞ
+33675466,N/A,NAM1,0,はい、どうぞ
+33818892,N/A,NAM1,0,はい、全ての容器に補充しましたよ
+33863058,N/A,NAM1,0,はい、どうぞ
 838080,N/A,NAM1,23347,ステンダールの光がお前の病を浄化するだろう
 314443,PuddleWater,FULL,74959,MaterialWaterPuddle
 1040530,PuddleWaterFlow,FULL,74959,MaterialWaterPuddle
@@ -492,8 +492,8 @@
 34006512,RND_InitNeedsEffects,DNAM,0,
 34006513,RND_InitNeedsSpell,FULL,0,Init Needs
 34006513,RND_InitNeedsSpell,DESC,0,
-33818891,RND_InnWaterAllBottlesTopic,FULL,0,持っているボトルに水を補充して欲しい（<Global=RND_InnWaterCostAll> ゴールド）
-33614662,RND_InnWaterTopic,FULL,0,飲み水をもらえるか？（<Global=RND_InnWaterCost> ゴールド）
+33818891,RND_InnWaterAllBottlesTopic,FULL,0,持っている全てのボトルに水を補充して欲しい（<Global=RND_InnWaterCostAll> ゴールド）
+33614662,RND_InnWaterTopic,FULL,0,飲み水を一杯もらえるか？（<Global=RND_InnWaterCost> ゴールド）
 33631309,RND_MainMenu,ITXT:5,45268,終了
 33631309,RND_MainMenu,ITXT:4,0,デバッグ＆テスト
 33631309,RND_MainMenu,ITXT:3,0,設定
