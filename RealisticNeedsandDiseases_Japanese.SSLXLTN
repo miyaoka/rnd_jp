@@ -189,7 +189,7 @@
 33675461,RND_CureDiseaseSpell,DESC,0,
 33638207,RND_DirtyBedroll,FULL,0,汚れているベッドロール
 33638207,RND_DirtyBedroll,DNAM,0,
-33596719,RND_DiseaseAtaxia,FULL,72143,運動不全症
+33596719,RND_DiseaseAtaxia,FULL,72143,[RD]運動不全症
 33596719,RND_DiseaseAtaxia,DNAM,0,運動不全症は、筋力と器用さに影響を及ぼす軽度の病気。
 33621624,RND_DiseaseAtaxiaStage0,FULL,72143,運動不全症
 33621624,RND_DiseaseAtaxiaStage0,DESC,0,
@@ -205,7 +205,7 @@
 33596726,RND_DiseaseAtaxiaStage2Effect,DNAM,0,移動速度が<mag>%低下し、相手に与えるダメージが25%低下する。
 33596723,RND_DiseaseAtaxiaTrap,FULL,0,[RD]運動不全症
 33596723,RND_DiseaseAtaxiaTrap,DNAM,0,運動不全症は、筋力と器用さに影響を及ぼす軽度の病気。
-33617448,RND_DiseaseBoneBreakFever,FULL,56762,骨折熱
+33617448,RND_DiseaseBoneBreakFever,FULL,56762,[RD]骨折熱
 33617448,RND_DiseaseBoneBreakFever,DNAM,0,骨折熱は、筋力と耐久力に影響を及ぼす軽度の病気。
 33621626,RND_DiseaseBoneBreakFeverStage0,FULL,56762,骨折熱
 33621626,RND_DiseaseBoneBreakFeverStage0,DESC,0,
@@ -221,7 +221,7 @@
 33593952,RND_DiseaseBoneBreakFeverStage2Effect,DNAM,0,積載重量が-<mag>、移動速度が<mag>%低下、相手に与えるダメージが25%低下する
 33617449,RND_DiseaseBoneBreakFeverTrap,FULL,0,[RD]骨折熱
 33617449,RND_DiseaseBoneBreakFeverTrap,DNAM,0,骨折熱は、筋力と耐久力に影響を及ぼす軽度の病気。
-33617450,RND_DiseaseBrainRot,FULL,72203,腐脳病
+33617450,RND_DiseaseBrainRot,FULL,72203,[RD]腐脳病
 33617450,RND_DiseaseBrainRot,DNAM,0,腐脳病は、精神と協調性に影響を及ぼす非常に危険な病気。
 33621628,RND_DiseaseBrainRotStage0,FULL,72203,腐脳病
 33621628,RND_DiseaseBrainRotStage0,DESC,0,
@@ -237,7 +237,7 @@
 33593953,RND_DiseaseBrainRotStage2Effect,DNAM,0,マジカが<mag>ポイント低下し、呪文の効果が75%低下する。
 33617451,RND_DiseaseBrainRotTrap,FULL,0,[RD]腐脳病
 33617451,RND_DiseaseBrainRotTrap,DNAM,0,腐脳病は、精神と協調性に影響を及ぼす非常に危険な病気。
-33617440,RND_DiseaseRattles,FULL,19614,音害症
+33617440,RND_DiseaseRattles,FULL,19614,[RD]音害症
 33617440,RND_DiseaseRattles,DNAM,0,音害症は、精神と器用さに影響を与える病気。
 33621630,RND_DiseaseRattlesStage0,FULL,19614,音害症
 33621630,RND_DiseaseRattlesStage0,DESC,0,
@@ -253,7 +253,7 @@
 33593954,RND_DiseaseRattlesStage2Effect,DNAM,0,スタミナとマジカの回復速度が<mag>低下。
 33617441,RND_DiseaseRattlesTrap,FULL,0,[RD]音害症
 33617441,RND_DiseaseRattlesTrap,DNAM,0,音害症は、精神と器用さに影響を与える病気。
-33616044,RND_DiseaseRockjoint,FULL,72035,重関節症
+33616044,RND_DiseaseRockjoint,FULL,72035,[RD]重関節症
 33616044,RND_DiseaseRockjoint,DNAM,0,重関節症は、手先の器用さに影響を与える深刻な病気。
 33621632,RND_DiseaseRockjointStage0,FULL,72035,重関節症
 33621632,RND_DiseaseRockjointStage0,DESC,0,
@@ -269,7 +269,7 @@
 33593955,RND_DiseaseRockJointStage2Effect,DNAM,0,スタミナが<mag>ポイント低下し、積載重量が<mag>低下する。
 33616043,RND_DiseaseRockjointTrap,FULL,0,[RD]重関節症
 33616043,RND_DiseaseRockjointTrap,DNAM,0,重関節症は、手先の器用さに影響を与える深刻な病気。
-33616055,RND_DiseaseWitbane,FULL,72126,知減病
+33616055,RND_DiseaseWitbane,FULL,72126,[RD]知減病
 33616055,RND_DiseaseWitbane,DNAM,0,知減病は、記憶能力と思考能力に影響を及ぼす深刻な病気。
 33621634,RND_DiseaseWitbaneStage0,FULL,72126,知減病
 33621634,RND_DiseaseWitbaneStage0,DESC,0,
