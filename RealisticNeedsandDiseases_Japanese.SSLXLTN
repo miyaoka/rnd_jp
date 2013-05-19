@@ -1,5 +1,5 @@
-﻿216158,Ale,FULL,9638,[飲料：酒]エール
-604173,AleWhiterunQuest,FULL,12023,[飲料：酒]アルゴニアン・エール
+﻿216158,Ale,FULL,9638,[飲料:酒]エール
+604173,AleWhiterunQuest,FULL,12023,[飲料:酒]アルゴニアン・エール
 2117,BarrelFood01,FULL,73317,樽
 1104321,BarrelMeat01,FULL,73317,樽
 1107938,BeastBloodMessage,DESC,0,
@@ -23,16 +23,16 @@
 755587,DiseaseWitbane,FULL,72126,知減病
 755587,DiseaseWitbane,DESC,66658,
 830971,FavorFoodMarkarthSpicedBeef,FULL,22404,スパイスを振った牛肉
-853342,FavorSorexRum,FULL,29844,[飲料：酒]ストロス・エムカイ・ラム
-100703,FirebrandWine,FULL,29011,[飲料：酒]ファイアブランド・ワイン
+853342,FavorSorexRum,FULL,29844,[飲料:酒]ストロス・エムカイ・ラム
+100703,FirebrandWine,FULL,29011,[飲料:酒]ファイアブランド・ワイン
 412462,FoodApple,FULL,59697,赤いリンゴ
 412463,FoodApple02,FULL,27206,緑のリンゴ
 965121,FoodAppleCabbageStew,FULL,66356,[シチュー]アップルキャベツのシチュー
-416921,FoodBeef,FULL,8423,[生肉]牛の肉
+416921,FoodBeef,FULL,8423,[*生肉]牛の肉
 467432,FoodBeefCooked,FULL,59339,ビーフステーキ
 1000212,FoodBeefStew,FULL,67576,[シチュー]ビーフシチュー
-181082,FoodBlackBriarMead,FULL,47166,[飲料：酒]ブラック・ブライアのハチミツ酒
-1009983,FoodBlackBriarMeadPrivateReserve,FULL,66833,[飲料：酒]ブラック・ブライアのリザーブ
+181082,FoodBlackBriarMead,FULL,47166,[飲料:酒]ブラック・ブライアのハチミツ酒
+1009983,FoodBlackBriarMeadPrivateReserve,FULL,66833,[飲料:酒]ブラック・ブライアのリザーブ
 412464,FoodBoiledCremeTreat,FULL,14556,クリーム煮
 416919,FoodBread01A,FULL,65008,パン（大）
 416920,FoodBread01B,FULL,65008,パン
@@ -47,54 +47,54 @@
 412469,FoodCheeseWheel01B,FULL,59864,ヤギチーズ
 412468,FoodCheeseWheel02A,FULL,11656,エイダールのホールチーズ
 412470,FoodCheeseWheel02B,FULL,6277,エイダールチーズ
-991249,FoodChicken,FULL,67756,[生肉]鶏の胸肉
+991249,FoodChicken,FULL,67756,[*生肉]鶏の胸肉
 952647,FoodChickenCooked,FULL,67184,鶏の胸肉のグリル
-965123,FoodClamMeat,FULL,66479,[生肉]貝の肉
-973614,FoodDogMeat,FULL,66778,[生肉]イヌの肉
+965123,FoodClamMeat,FULL,66479,[*生肉]貝の肉
+973614,FoodDogMeat,FULL,66778,[*生肉]イヌの肉
 1000224,FoodElsweyrFondue,FULL,66890,[シチュー]エルスウェーアフォンデュ
-416922,FoodGoatMeat,FULL,66261,[生肉]ヤギの足
+416922,FoodGoatMeat,FULL,66261,[*生肉]ヤギの足
 467532,FoodGoatMeatCooked,FULL,66040,ヤギの足のロースト
 1103462,FoodGourd,FULL,11000,ウリ
 1063245,FoodHoney,FULL,70666,ハチミツ
 412472,FoodHoneyNutTreat,FULL,59695,ハニーナッツのおやつ
-329930,FoodHonningbrewMead,FULL,51868,[飲料：酒]ホニングブリューハチミツ酒
-416923,FoodHorkerMeat,FULL,65099,[生肉]ホーカーの肉
+329930,FoodHonningbrewMead,FULL,51868,[飲料:酒]ホニングブリューハチミツ酒
+416923,FoodHorkerMeat,FULL,65099,[*生肉]ホーカーの肉
 467534,FoodHorkerMeatCooked,FULL,65182,ホーカーのローフ
 1000213,FoodHorkerStew,FULL,68145,[シチュー]ホーカーのシチュー
-416924,FoodHorseMeat,FULL,65483,[生肉]馬の肉
+416924,FoodHorseMeat,FULL,65483,[*生肉]馬の肉
 467632,FoodHorseMeatCooked,FULL,65948,馬肉のロースト
 420261,FoodLeek,FULL,9362,リーキ
 412478,FoodLeeksGrilled,FULL,21197,リーキのグリル
 412473,FoodLongTaffyTreat,FULL,63842,ロングタフィーのおやつ
 420259,FoodMammothCheeseBowl,FULL,35213,器入りマンモスチーズ
-420260,FoodMammothMeat,FULL,70114,[生肉]マンモスの鼻
+420260,FoodMammothMeat,FULL,70114,[*生肉]マンモスの鼻
 467643,FoodMammothMeatCooked,FULL,65429,マンモスステーキ
 841236,FoodMarriageMeal,FULL,67304,[シチュー]家庭料理
-216157,FoodMead,FULL,59810,[飲料：酒]ノルド・ハチミツ酒
-416925,FoodPheasant,FULL,65197,[生肉]キジの胸肉
+216157,FoodMead,FULL,59810,[飲料:酒]ノルド・ハチミツ酒
+416925,FoodPheasant,FULL,65197,[*生肉]キジの胸肉
 467655,FoodPheasantCooked,FULL,66023,キジのロースト
 412483,FoodPie,FULL,58705,アップルパイ
 412481,FoodPotato,FULL,64095,ジャガイモ
 412474,FoodPotatoesBaked,FULL,34525,ベイクドポテト
-416926,FoodRabbit,FULL,65111,[生肉]兎の足
+416926,FoodRabbit,FULL,65111,[*生肉]兎の足
 467650,FoodRabbitCooked,FULL,66258,兎肉のロースト
-416927,FoodSalmon,FULL,65141,[生肉]サケの切り身
+416927,FoodSalmon,FULL,65141,[*生肉]サケの切り身
 412475,FoodSalmonCooked,FULL,65272,サケのステーキ
 412476,FoodSlaughterfishCooked,FULL,19094,スローターフィッシュの焼き身
-545640,FoodSolitudeSpicedWine,FULL,15218,[飲料：酒]スパイス入りワイン
+545640,FoodSolitudeSpicedWine,FULL,15218,[飲料:酒]スパイス入りワイン
 412477,FoodSweetroll,FULL,38544,スイート・ロール
 412482,FoodTomato,FULL,31902,トマト
 1000220,FoodTomatoSoup,FULL,67639,[シチュー]トマトスープ
 1000222,FoodVegetableSoup,FULL,68148,[シチュー]野菜スープ
-420258,FoodVenison,FULL,66028,[生肉]鹿肉
+420258,FoodVenison,FULL,66028,[*生肉]鹿肉
 467645,FoodVenisonCooked,FULL,65456,鹿肉のチョップ
 1000221,FoodVenisonStew,FULL,66920,[シチュー]鹿肉のシチュー
-201531,FoodWineAlto,FULL,40407,[飲料：酒]アルトワイン
-807753,FoodWineAltoA,FULL,40407,[飲料：酒]アルトワイン
-201532,FoodWineBottle02,FULL,57427,[飲料：酒]ワイン
-807752,FoodWineBottle02A,FULL,57427,[飲料：酒]ワイン
+201531,FoodWineAlto,FULL,40407,[飲料:酒]アルトワイン
+807753,FoodWineAltoA,FULL,40407,[飲料:酒]アルトワイン
+201532,FoodWineBottle02,FULL,57427,[飲料:酒]ワイン
+807752,FoodWineBottle02A,FULL,57427,[飲料:酒]ワイン
 359035,FreeformAngasMillKordirsSkooma,FULL,43754,コーディール・スクゥーマ
-349672,FreeformDragonBridgeMead,FULL,19436,[飲料：酒]ドラゴンブレス酒
+349672,FreeformDragonBridgeMead,FULL,19436,[飲料:酒]ドラゴンブレス酒
 1038351,MarriageRestedMessage,DESC,0,
 645702,MerchantDawnstarWindpeakInnChest,FULL,57699,宝箱
 682993,MerchantDragonBridgeFourShieldsTavernChest,FULL,57699,宝箱
@@ -119,15 +119,15 @@
 622444,MiscSackLargeFlat01,FULL,74788,大きな袋
 622446,MiscSackLargeFlat02,FULL,74788,大きな袋
 622448,MiscSackLargeFlat03,FULL,74788,大きな袋
-1079946,MQ101JuniperMead,FULL,71431,[飲料：酒]ジュニパーベリー入りのハチミツ酒
-224595,MQ201Drink,FULL,14158,[飲料：酒]コロヴィアン・ブランデー
-992638,MS14WineAltoA,FULL,67311,[飲料：酒]ジェシカのワイン
-33614663,N/A,NAM1,0,.
-33675464,N/A,NAM1,0,.
-33675465,N/A,NAM1,0,.
-33675466,N/A,NAM1,0,.
-33818892,N/A,NAM1,0,.
-33863058,N/A,NAM1,0,.
+1079946,MQ101JuniperMead,FULL,71431,[飲料:酒]ジュニパーベリー入りのハチミツ酒
+224595,MQ201Drink,FULL,14158,[飲料:酒]コロヴィアン・ブランデー
+992638,MS14WineAltoA,FULL,67311,[飲料:酒]ジェシカのワイン
+33614663,N/A,NAM1,0,はい、どうぞ
+33675464,N/A,NAM1,0,はい、どうぞ
+33675465,N/A,NAM1,0,はい、どうぞ
+33675466,N/A,NAM1,0,はい、どうぞ
+33818892,N/A,NAM1,0,はい、全ての容器に補充しましたよ
+33863058,N/A,NAM1,0,はい、どうぞ
 838080,N/A,NAM1,23347,ステンダールの光がお前の病を浄化するだろう
 314443,PuddleWater,FULL,74959,MaterialWaterPuddle
 1040530,PuddleWaterFlow,FULL,74959,MaterialWaterPuddle
@@ -139,9 +139,9 @@
 1104232,RestedSkillEffect,DNAM,0,
 1104235,RestedWellSkillEffect,FULL,72538,十分な休息
 1104235,RestedWellSkillEffect,DNAM,0,
-416823,RiftenSpecial01,FULL,18148,[飲料：酒]ベルベット・レカンス
-416824,RiftenSpecial02,FULL,15292,[飲料：酒]ホワイトゴールド・タワー
-416825,RiftenSpecial03,FULL,42754,[飲料：酒]クリフ・レーサー
+416823,RiftenSpecial01,FULL,18148,[飲料:酒]ベルベット・レカンス
+416824,RiftenSpecial02,FULL,15292,[飲料:酒]ホワイトゴールド・タワー
+416825,RiftenSpecial03,FULL,42754,[飲料:酒]クリフ・レーサー
 33663050,RND_AtaxiaReduceAttackDamage25,FULL,0,相手に与えるダメージが減少
 33663050,RND_AtaxiaReduceAttackDamage25,DESC,0,
 33711339,RND_BeastBloodMessage,DESC,74689,野獣の血が安眠を妨げている。
@@ -150,12 +150,12 @@
 34105856,RND_Blackout,DNAM,0,
 34105854,RND_BlackoutSpell,FULL,0,Blackout Spell
 34105854,RND_BlackoutSpell,DESC,0,
-33575916,RND_BoiledWater01,FULL,0,[飲料]きれいな水
-33575918,RND_BoiledWater02,FULL,0,[飲料]きれいな水
-33618848,RND_BoiledWater02B,FULL,0,[飲料]きれいな水
-33575920,RND_BoiledWater03,FULL,0,[飲料]きれいな水
-33618841,RND_BoiledWater03B,FULL,0,[飲料]きれいな水
-33618843,RND_BoiledWater03C,FULL,0,[飲料]きれいな水
+33575916,RND_BoiledWater01,FULL,0,[飲料]きれいな水[小]: 1/1
+33575918,RND_BoiledWater02,FULL,0,[飲料]きれいな水[中]: 2/2
+33618848,RND_BoiledWater02B,FULL,0,[飲料]きれいな水[中]: 1/2
+33575920,RND_BoiledWater03,FULL,0,[飲料]きれいな水[大]: 3/3
+33618841,RND_BoiledWater03B,FULL,0,[飲料]きれいな水[大]: 2/3
+33618843,RND_BoiledWater03C,FULL,0,[飲料]きれいな水[大]: 1/3
 33593946,RND_BoneBreakFeverReduceAttackDamage25,FULL,0,相手に与えるダメージが減少
 33593946,RND_BoneBreakFeverReduceAttackDamage25,DESC,0,
 33575909,RND_BottledWater01,FULL,0,[飲料]川の水
@@ -317,9 +317,9 @@
 33573145,RND_EatFoodMedium,DNAM,0,食べるとお腹がふくれそうだ。
 33567605,RND_EatFoodSnack,FULL,0,少し空腹が満たされる
 33567605,RND_EatFoodSnack,DNAM,0,空腹を凌げそうだ。
-33571760,RND_EmptyBottle01,FULL,0,[容器]空のボトル[小]
-33571762,RND_EmptyBottle02,FULL,0,[容器]空のボトル[中]
-33571764,RND_EmptyBottle03,FULL,0,[容器]空のボトル[大]
+33571760,RND_EmptyBottle01,FULL,0,[飲料容器]空のボトル[小]
+33571762,RND_EmptyBottle02,FULL,0,[飲料容器]空のボトル[中]
+33571764,RND_EmptyBottle03,FULL,0,[飲料容器]空のボトル[大]
 33577320,RND_FlagonWater,FULL,0,[飲料]調理用水
 33649255,RND_FoodBeggarStew,FULL,0,[シチュー・腐敗]乞食スープ
 33970619,RND_FoodBoiledEgg,FULL,0,ゆで卵
@@ -357,28 +357,28 @@
 33806478,RND_FoodRabbitStew,FULL,0,[シチュー]兎のシチュー
 33643721,RND_FoodSalmonChowder,FULL,0,[シチュー]サケのチャウダー
 34064486,RND_FoodSaltedMeat,FULL,0,塩漬け肉
-33581486,RND_FoodStaleApple,FULL,0,[腐敗]しなびた赤いリンゴ
-33587018,RND_FoodStaleBread01A,FULL,0,[腐敗]カビの生えたパン
-33587019,RND_FoodStaleBread01B,FULL,0,[腐敗]カビの生えたパンの切れはし
-33587022,RND_FoodStaleCabbage,FULL,0,[腐敗]しなびたキャベツ
-33587023,RND_FoodStaleCheeseWedge01,FULL,0,[腐敗]腐ったヤギのチーズの切れはし
-33587025,RND_FoodStaleCheeseWedge02,FULL,0,[腐敗]腐ったエイルダーチーズの切れはし
-33587034,RND_FoodStaleGoatMeatCooked,FULL,0,[腐敗]腐ったヤギの足のロースト
-33680982,RND_FoodStaleLeeksGrilled,FULL,0,[腐敗]古びたリーキのグリル
-33587039,RND_FoodStalePheasantCooked,FULL,0,[腐敗]腐ったキジのロースト
-33697531,RND_FoodStalePotato,FULL,0,[腐敗]古くなったジャガイモ
-33690638,RND_FoodStalePotatoesBaked,FULL,0,[腐敗]古びたベイクドポテト
-33587032,RND_FoodStaleRawMeatBeef,FULL,0,[腐敗]腐った牛の肉
-34010658,RND_FoodStaleRawMeatDog,FULL,0,[腐敗]腐ったイヌの肉
-34010664,RND_FoodStaleRawMeatGoat,FULL,0,[腐敗]腐ったヤギの足
-33587041,RND_FoodStaleRawMeatHorker,FULL,0,[腐敗]腐ったホーカーの肉
-34010666,RND_FoodStaleRawMeatHorse,FULL,0,[腐敗]腐った馬の肉
-34010668,RND_FoodStaleRawMeatMammoth,FULL,0,[腐敗]腐ったマンモスの鼻
-34010681,RND_FoodStaleRawMeatPheasant,FULL,0,[腐敗]腐ったキジの胸肉
-33587037,RND_FoodStaleRawMeatRabbit,FULL,0,[腐敗]腐った兎の足
-34010672,RND_FoodStaleRawMeatVenison,FULL,0,[腐敗]腐った鹿肉
-33587035,RND_FoodStaleSlaughterfishCooked,FULL,0,[腐敗]腐ったスローターフィッシュの焼き身
-33587027,RND_FoodStaleTomato,FULL,0,[腐敗]腐ったトマト
+33581486,RND_FoodStaleApple,FULL,0,[*腐敗]しなびた赤いリンゴ
+33587018,RND_FoodStaleBread01A,FULL,0,[*腐敗]カビの生えたパン
+33587019,RND_FoodStaleBread01B,FULL,0,[*腐敗]カビの生えたパンの切れはし
+33587022,RND_FoodStaleCabbage,FULL,0,[*腐敗]しなびたキャベツ
+33587023,RND_FoodStaleCheeseWedge01,FULL,0,[*腐敗]腐ったヤギのチーズの切れはし
+33587025,RND_FoodStaleCheeseWedge02,FULL,0,[*腐敗]腐ったエイルダーチーズの切れはし
+33587034,RND_FoodStaleGoatMeatCooked,FULL,0,[*腐敗]腐ったヤギの足のロースト
+33680982,RND_FoodStaleLeeksGrilled,FULL,0,[*腐敗]古びたリーキのグリル
+33587039,RND_FoodStalePheasantCooked,FULL,0,[*腐敗]腐ったキジのロースト
+33697531,RND_FoodStalePotato,FULL,0,[*腐敗]古くなったジャガイモ
+33690638,RND_FoodStalePotatoesBaked,FULL,0,[*腐敗]古びたベイクドポテト
+33587032,RND_FoodStaleRawMeatBeef,FULL,0,[*腐敗]腐った牛の肉
+34010658,RND_FoodStaleRawMeatDog,FULL,0,[*腐敗]腐ったイヌの肉
+34010664,RND_FoodStaleRawMeatGoat,FULL,0,[*腐敗]腐ったヤギの足
+33587041,RND_FoodStaleRawMeatHorker,FULL,0,[*腐敗]腐ったホーカーの肉
+34010666,RND_FoodStaleRawMeatHorse,FULL,0,[*腐敗]腐った馬の肉
+34010668,RND_FoodStaleRawMeatMammoth,FULL,0,[*腐敗]腐ったマンモスの鼻
+34010681,RND_FoodStaleRawMeatPheasant,FULL,0,[*腐敗]腐ったキジの胸肉
+33587037,RND_FoodStaleRawMeatRabbit,FULL,0,[*腐敗]腐った兎の足
+34010672,RND_FoodStaleRawMeatVenison,FULL,0,[*腐敗]腐った鹿肉
+33587035,RND_FoodStaleSlaughterfishCooked,FULL,0,[*腐敗]腐ったスローターフィッシュの焼き身
+33587027,RND_FoodStaleTomato,FULL,0,[*腐敗]腐ったトマト
 33577315,RND_FortifySpeechcraft,FULL,68928,話術上昇
 33577315,RND_FortifySpeechcraft,DNAM,0,<dur>秒間、話術が<10>上昇する。
 33849244,RND_FPWaterskinBoiled00,FULL,0,数回に分けて飲むことができる
@@ -492,8 +492,8 @@
 34006512,RND_InitNeedsEffects,DNAM,0,
 34006513,RND_InitNeedsSpell,FULL,0,Init Needs
 34006513,RND_InitNeedsSpell,DESC,0,
-33818891,RND_InnWaterAllBottlesTopic,FULL,0,持っているボトルに水を補充して欲しい（<Global=RND_InnWaterCostAll> ゴールド）
-33614662,RND_InnWaterTopic,FULL,0,飲み水をもらえるか？（<Global=RND_InnWaterCost> ゴールド）
+33818891,RND_InnWaterAllBottlesTopic,FULL,0,持っている全てのボトルに水を補充して欲しい（<Global=RND_InnWaterCostAll> ゴールド）
+33614662,RND_InnWaterTopic,FULL,0,飲み水を一杯もらえるか？（<Global=RND_InnWaterCost> ゴールド）
 33631309,RND_MainMenu,ITXT:5,45268,終了
 33631309,RND_MainMenu,ITXT:4,0,デバッグ＆テスト
 33631309,RND_MainMenu,ITXT:3,0,設定
@@ -791,8 +791,8 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 33562035,RND_SleepSpell03,DESC,0,積載重量 <-60> 、スキルの成長速度 <-50>%、移動速度 <-20>%
 33562037,RND_SleepSpell04,FULL,0,疲労困憊
 33562037,RND_SleepSpell04,DESC,0,積載重量 <-90> 、スキルの成長速度 <-75>%、移動速度 <-30>%
-34031389,RND_SpoiledJunk,FULL,0,[廃棄物]カビた食べ物
-34079659,RND_SpoiledJunkB,FULL,0,[廃棄物]腐った食べ物
+34031389,RND_SpoiledJunk,FULL,0,[*廃棄物]カビた食べ物
+34079659,RND_SpoiledJunkB,FULL,0,[*廃棄物]腐った食べ物
 34079661,RND_SpoiledJunkEffect,FULL,0,古びた食べ物
 34079661,RND_SpoiledJunkEffect,DNAM,0,カビが手に入る。
 34079662,RND_SpoiledJunkEffectB,FULL,0,古びた食べ物
@@ -863,17 +863,17 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 33752700,RND_Tinderbox,FULL,0,火口箱
 34081044,RND_UnarmedDamage,FULL,72547,素手ダメージ上昇
 34081044,RND_UnarmedDamage,DNAM,0,
-33849236,RND_WaterskinBoiled00,FULL,0,[飲料]水筒(きれいな水): 満杯
+33849236,RND_WaterskinBoiled00,FULL,0,[飲料]水筒(きれいな水): 4/4
 33849238,RND_WaterskinBoiled01,FULL,0,[飲料]水筒(きれいな水): 3/4
 33849242,RND_WaterskinBoiled02,FULL,0,[飲料]水筒(きれいな水): 2/4
 33849240,RND_WaterskinBoiled03,FULL,0,[飲料]水筒(きれいな水): 1/4
-33842327,RND_WaterskinEmpty,FULL,0,[容器]水筒
-33835435,RND_WaterskinRiver00,FULL,0,[飲料]水筒(川の水): 満杯
+33842327,RND_WaterskinEmpty,FULL,0,[飲料容器]水筒
+33835435,RND_WaterskinRiver00,FULL,0,[飲料]水筒(川の水): 4/4
 33849224,RND_WaterskinRiver01,FULL,0,[飲料]水筒(川の水): 3/4
 33849225,RND_WaterskinRiver02,FULL,0,[飲料]水筒(川の水): 2/4
 33849227,RND_WaterskinRiver03,FULL,0,[飲料]水筒(川の水): 1/4
 33988542,RND_WaterskinSeawater,FULL,0,[飲料]水筒(海水)
-33849250,RND_WaterskinSpring00,FULL,0,[飲料]水筒(湧き水): 満杯
+33849250,RND_WaterskinSpring00,FULL,0,[飲料]水筒(湧き水): 4/4
 33849252,RND_WaterskinSpring01,FULL,0,[飲料]水筒(湧き水): 3/4
 33849253,RND_WaterskinSpring02,FULL,0,[飲料]水筒(湧き水): 2/4
 33849255,RND_WaterskinSpring03,FULL,0,[飲料]水筒(湧き水): 1/4
@@ -896,7 +896,7 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 34034147,RNDSpoilageQuest,FULL,0,RNDSpoilageQuest
 33614659,RNDTrackingQuest,FULL,0,RNDTrackingQuest
 359034,Skooma,FULL,11426,スクゥーマ
-901490,TGTQ02BalmoraBlue,FULL,60063,[飲料：酒]バルモラ・ブルー
+901490,TGTQ02BalmoraBlue,FULL,60063,[飲料:酒]バルモラ・ブルー
 1090122,TrapDiseaseAtaxia,FULL,72143,運動不全症
 1090122,TrapDiseaseAtaxia,DESC,0,
 1090124,TrapDiseaseBoneBreakFever,FULL,56762,骨折熱
@@ -909,7 +909,7 @@ SkyUI v3 を使用しているのなら、シュガーボールはもう必要�
 1090127,TrapDiseaseRockjoint,DESC,0,
 1090128,TrapDiseaseWitbane,FULL,72126,知減病
 1090128,TrapDiseaseWitbane,DESC,0,
-758231,WEDL03CyrodilicBrandy,FULL,49322,[飲料：酒]シロディールブランデー
+758231,WEDL03CyrodilicBrandy,FULL,49322,[飲料:酒]シロディールブランデー
 1038350,WellRestedMessage,DESC,0,
 967511,WerewolfFeed,FULL,67105,ウェアウルフの吸血
 967511,WerewolfFeed,DESC,0,
